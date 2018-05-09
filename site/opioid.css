@@ -1,0 +1,36 @@
+body{
+    background-color: #BBDEF0;
+    font-family: Verdana, Geneva, sans-serif;
+}
+p.nav {
+    padding: 15px;
+    color: #A3333D;
+}
+a.nav, h2, h3 {
+    color: #A3333D;
+}
+
+h1 {
+    color: #477998;
+    padding: 10px;
+}
+
+div.container {
+    background-color: #B1D6A2;
+    opacity: .75;
+    padding: 10px;
+    height: auto;
+}
+img {
+    display: inline-block;
+    margin: auto;
+    max-width: 50%;
+    max-height: 50%;
+    float: right;
+    border: 1px dotted black;
+    margin: 0px 0px 15px 20px;
+    
+}
+div.header {
+    font-family:Zapf-Chancery, cursive;
+}

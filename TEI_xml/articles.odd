@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ODD for Victorian Ghost Hoax Project</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <schemaSpec ident="oddex1" start="TEI">
+        <moduleRef key="header"
+          include="
+          fileDesc
+            publicationStmt
+              
+          titleStmt
+            
+          encodingDesc
+            projectDesc
+            samplingDesc
+            editorialDecl
+            schemaRef
+          profileDesc
+            langUsage
+            calendarDesc
+          sourceDesc
+          xenoData"
+          />
+        <moduleRef key="core"
+          include="
+          pubPlace
+          publisher
+          author
+          editor
+          title
+          
+          "
+        />
+        <moduleRef key="tei"/>
+        <moduleRef key="textstructure"/>
+        <moduleRef key="namesdates"/>
+      </schemaSpec>
+    </body>
+  </text>
+</TEI>

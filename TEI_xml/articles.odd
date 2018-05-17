@@ -37,12 +37,19 @@
           />
         <moduleRef key="core"
           include="
-          pubPlace
-          publisher
-          author
-          editor
-          title
           
+          p s
+          
+          pubPlace publisher author editor title
+            att.personal
+          
+          foreign emph hi
+          
+          q soCalled
+          
+          gap unclear
+          
+          att.canonical
           "
         />
         <moduleRef key="tei"/>

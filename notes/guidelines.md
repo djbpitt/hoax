@@ -54,7 +54,7 @@ Using ABBYY Finereader (FIGURE OUT WHICH VERSION) to create transcriptions of te
 1. Capital letters, especially ALL CAPS, can often be misread. Using Notepad ++ or another plain text editor with spell check features is helpful for catching these errors
 1. Curly quotes should be used. David Birnbaum is partially to blame for this, but also when I go tag quotations the Regex is a heck of a lot easier.
 
-## Tags used
+## Tags
 * `<TEI>`: This is the root element for every TEI document
 * `<teiHeader`: Won't worry about this too much, we can fill in later, just copy and paste from example document
 * `<text>`: this contains the text

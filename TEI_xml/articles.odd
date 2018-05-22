@@ -33,6 +33,7 @@
             langUsage
             calendarDesc
           sourceDesc
+            bibl
           xenoData"
           />
         <moduleRef key="core"
@@ -53,8 +54,10 @@
           "
         />
         <moduleRef key="tei"/>
-        <moduleRef key="textstructure"/>
+        <moduleRef key="textstructure" include="TEI text div back body"/>
+        <!-- optional modules -->
         <moduleRef key="namesdates"/>
+        <moduleRef key="analysis"/>
       </schemaSpec>
     </body>
   </text>

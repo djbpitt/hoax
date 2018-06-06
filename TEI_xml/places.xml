@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPlace>
+                <place xml:id="usa" type="country">
+                    <placeName rend="the United States">United States of America</placeName>
+                </place>
+                <place xml:id="r26seymour" type="residence">
+                    <placeName>Stone/Hayden Residence<!-- questionable, difficult to verify who actually lived there --></placeName>
+                    <location>
+                        <geo>51.5151 -0.1562</geo>
+                        <address>
+                            <addrLine>Residence</addrLine>
+                            <addrLine>Twenty-six, Upper Seymour Street</addrLine>
+                            <addrLine>Portman Square, London</addrLine>
+                            
+                        </address>
+                        
+                    </location>
+                </place>
+                <place xml:id="france">
+                    <placeName rend="France">France</placeName>
+                </place>
+                <place xml:id="cocklane" type="street">
+                    <location>
+                        <geo>51.5173 -0.1025</geo>
+                        <address>
+                            <addrLine>Cock Lane</addrLine>
+                            <addrLine>West Smithfield, London</addrLine>
+                        </address>
+                        
+                    </location>
+                </place>
+                <place xml:id="stsepulchre" type="church">
+                    <location>
+                        <geo>51.5166 -0.1023</geo>
+                        <address>
+                            <addrLine>Snow Hill</addrLine>
+                            <addrLine>Holborn, London</addrLine>
+                        </address>
+                    </location>
+                </place>
+                <place xml:id="clerkenwell" type="neighborhood">
+                    <location>
+                        <geo>51.5227 -0.1058</geo>
+                    </location>
+                </place>
+            </listPlace>
+        </body>
+    </text>
+</TEI>

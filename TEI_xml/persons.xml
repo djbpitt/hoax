@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher></publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl></bibl>
+            </sourceDesc>
+            </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person sex="M" xml:id="stonegw" corresp="cocklaneghost_householdwords_1852.xml" type="subject" role="showman" source="https://tinyurl.com/y9udxbh3">
+                    <persName>
+                        <surname>Stone</surname>
+                        <forename>George W.</forename>
+                    </persName>
+                </person>
+                <person sex="F" xml:id="haydenmb" type="subject" role="medium" source="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/hayden-maria-b-ca-1852">
+                    <persName>
+                        <surname>Hayden</surname>
+                        <forename>Maria B.</forename>
+                    </persName>
+                </person>
+                <person sex="M" xml:id="wordsworth" type="reference" subtype="literary" role="poet" source="https://en.wikipedia.org/wiki/William_Wordsworth#External_links">
+                    <persName>
+                        <surname>Wordsworth</surname>
+                        <forename>William</forename>
+                    </persName>
+                </person>
+                <person sex="N" xml:id="god" type="reference" subtype="religious" role="god">
+                    <persName>
+                        <surname>God</surname>
+                    </persName>
+                </person>
+                <person sex="F" xml:id="virginmary" type="reference" subtype="religious" role="saint">
+                    <persName>Mary</persName>
+                </person>
+                <person sex="F" xml:id="parsonse" type="reference" subtype="hoax" role="medium child">
+                    <persName>
+                        <surname>Parsons</surname>
+                        <forename>Elizabeth</forename>
+                    </persName>
+                </person>
+                <person sex="F" xml:id="lynesf" type="reference" subtype="hoax" role="ghost">
+                    <persName>
+                        <surname>Lynes</surname>
+                        <forename>Fanny</forename>
+                    </persName>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

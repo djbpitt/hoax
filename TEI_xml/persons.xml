@@ -54,6 +54,7 @@
                         <forename>Fanny</forename>
                     </persName>
                 </person>
+                <person sex="U" xml:id="robinsonj" type="reference" subtype="text" role="spiritualist author"></person>
             </listPerson>
         </body>
     </text>

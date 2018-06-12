@@ -12,12 +12,12 @@
       </sourceDesc>
       <!--British Periodicals pg. 217 "Familiar in their Mouths as HOUSEHOLD WORDS."—Shakespeare.
     HOUSEHOLD WORDS. A WEEKLY JOURNAL. CONDUCTED BY CHARLES DICKENS. N°-139. SATURDAY, NOVEMBER 20,
-    1852. Price 2d. THE GHOST OF THE <rs ref="CLghost">COCK LANE GHOST</rs>.-->
+    1852. Price 2d. THE <rs ref="ghost">GHOST</rs> OF THE <rs ref="CL<rs ref="ghost">ghost</rs>">COCK LANE <rs ref="ghost">GHOST</rs></rs>.-->
     </fileDesc>
   </teiHeader>
   <text>
     <body>
-      <p>We were recently invited into the company of the Ghost of the <rs ref="CLghost">Cock Lane Ghost</rs>, by an
+      <p>We were recently invited into the company of the <rs ref="ghost">Ghost</rs> of the <rs ref="CLghost">Cock Lane <rs ref="ghost">Ghost</rs></rs>, by an
         advertisement in the Times Newspaper, in which a demonstrator or showman, <name
           ref="#stone">Mr. Stone</name>, begged <q>leave to inform the nobility and gentry that
           he has just returned from <placeName ref="#usa">the United States</placeName>, accompanied
@@ -28,7 +28,7 @@
           from Eleven to Two and from Four to Six.</q> So the announcement ran. We had read
         something of the Rochester Rappers and of the mystery, if it be a mystery, called <q>spirit
           knocking</q> in the sentimental language of <placeName ref="#usa">America</placeName>. We
-        resolved to visit Mrs. Hayden, and knock up an acquaintance with the ghosts who meet in her
+        resolved to visit Mrs. Hayden, and knock up an acquaintance with the <rs ref="ghost">ghosts</rs> who meet in her
         apartments, <placeName ref="#r26seymour">No. Twenty-six, Upper Seymour Street, Portman
           Square.</placeName> We ourselves happened to be out of spirits, therefore perhaps we made
         a wise resolve.</p>
@@ -69,17 +69,17 @@
         he explained the fact to his own honour, by stating that his parents were so much distressed
         by his incessant wakefulness, that he found it necessary to feign sleep occasionally, for
         the comfort of their minds.</p>
-      <p>Knocking or Rapping ghosts are no new imposition. In a relation of facts concerning
+      <p>Knocking or Rapping <rs ref="ghost">ghosts</rs> are no new imposition. In a relation of facts concerning
           <soCalled>spirit-knockings</soCalled> written in an American pamphlet that is now before us, <q>by <name ref="#robinsonj">J.
           Robinson</name>,</q> we are told much, not only of the knockings of the unseen beings, but also
         of the imitations of evil spirits, which, <q>resembled scratching produced with the
-          fingernails.</q> Now, will any keeper of a knocking ghost, or any lady or gentleman who
+          fingernails.</q> Now, will any keeper of a knocking <rs ref="ghost">ghost</rs>, or any lady or gentleman who
         has taken up the trade of communicating between knocking spirits and the gullible portion of
         the public (which lady or gentleman is called in the trade a <rs ref="medium">Medium</rs>), turn to the <ref source="https://babel.hathitrust.org/cgi/pt?id=njp.32101076875358;view=1up;seq=78">Annual
         Register for the year 1762</ref>, and read what is there entitled <q>A summary account of the
           proceedings in regard to some strange noises<pb/> heard the beginning of the year at a
-          house in <placeName ref="cocklane">Cock Lane, West Smithfield</placeName>.</q> Having read the said account, let the said
-        ghost-keeper or <rs ref="medium">Medium</rs> answer to our catechism on the History of Knockers in a simple way.
+          house in <placeName ref="#cocklane">Cock Lane, West Smithfield</placeName>.</q> Having read the said account, let the said
+        <rs ref="ghost">ghost</rs>-keeper or <rs ref="medium">Medium</rs> answer to our catechism on the History of Knockers in a simple way.
         Q. Who was the first <rs ref="medium">Medium</rs>? A. <name ref="#parsonse">Little Miss Parsons</name>. Q. Who was she? A. The daughter of the
         clerk of <placeName ref="#stsepulchre">St. Sepulchre’s</placeName>. Q. How did the spirit-knocking in her case begin? A. Her father,
         the clerk, had taken as lodgers a gentleman and lady, and in the absence of the gentleman,
@@ -88,41 +88,41 @@
         continued, and at length excited much attention, but the lady and gentleman removed into the
         neighbourhood of <placeName ref="#clerkenwell">Clerkenwell</placeName> (where <name ref="#lynesf">Miss Fanny</name> presently died), and then the noise in
         Parsons’ house was discontinued. Q. You have said that the first <rs ref="medium">medium</rs> was little <name ref="#parsonse">Miss
-        Parsons</name>; in what way do you connect the story of the <rs ref="CLghost">Cock Lane Ghost</rs> with her, and discover
+        Parsons</name>; in what way do you connect the story of the <rs ref="CLghost">Cock Lane <rs ref="ghost">Ghost</rs></rs> with her, and discover
         the resemblance that exists between that child and yourself? A. Eighteen months after <name ref="#lynesf">Miss
         Fanny</name> left the <name ref="#parsonsr #parsonse">Parsonses</name>, and in the beginning of the year <date >1762</date>, the noises recommenced, and
         it is recorded of little <name ref="#parsonse">Miss Parsons</name>, that the child, upon certain knockings and
         scratchings, which seemed to proceed from beneath her bedstead, was sometimes thrown into
         violent fits and agitations; and a woman attendant, or the father, <name ref="#parsonsr">Mr. Parsons</name>, put
-        questions to the spirit or ghost, as it was supposed by the credulous to be, and they had
+        questions to the spirit or <rs ref="ghost">ghost</rs>, as it was supposed by the credulous to be, and they had
         also dictated how many knocks should serve for an answer, either in the affirmative or
         negative. Now this plan, invented by little <name ref="parsonse">Miss Parsons</name>, differs in no material respect
-        from my own. Q. What was the object of <name ref="#parsonse">Miss Parsons</name> and her friends? A. The ghost declared
-        itself to be the ghost of the deceased <name ref="#lynesf">Miss Fanny</name>, and its business was to accuse the
+        from my own. Q. What was the object of <name ref="#parsonse">Miss Parsons</name> and her friends? A. The <rs ref="ghost">ghost</rs> declared
+        itself to be the <rs ref="ghost">ghost</rs> of the deceased <name ref="#lynesf">Miss Fanny</name>, and its business was to accuse the
         gentleman of having <interp>poisoned her by giving to her arsenic in a glass of purl</interp> when she was
-        ill of small-pox. Q. Was not that very wicked? A. It was very capitally done. Little <name ref="parsonse">Miss
-        Parsons</name> was removed from house to house, but the noises followed her, the ghost protesting
+        ill of small-pox. Q. Was not that very wicked? A. It was very capitally done. Little <name ref="#parsonse">Miss
+        Parsons</name> was removed from house to house, but the noises followed her, the <rs ref="ghost">ghost</rs> protesting
         that she would follow her wherever she went, and the exhibition was exceedingly attractive;
         for,as it is said in the Annual Register,<q>numbers of persons of fortune and character, and
           several clergymen, assisted at the vagaries of the invisible knocker and scratcher.</q> Q.
         Were the pretensions of this girl seriously tested? A. Yes, they were, she was tied up in a
-        hammock with her feet and hands bound apart from one another, but the ghost refused then to
+        hammock with her feet and hands bound apart from one another, but the <rs ref="ghost">ghost</rs> refused then to
         make its knockings audible. The spirit had also promised by an affirmative knock, that it
         would attend three gentlemen into the vault under St. John’s church, and knock in their
-        presence upon the coffin (Miss Fanny’s) wherein lay her body. Q. I think I remember some
+        presence upon the coffin (<name ref="#lynesf">Miss Fanny’s</name>) wherein lay her body. Q. I think I remember some
         lines by Churchill on the subject of this expedition to the vault. Can you repeat some of
-        them? A. I can, for I have found them in the Register. They begin <q>Dark was the night,</q>
+        them? A. I can, for I have found them in <rs ref="paper?">the Register</rs>. They begin <q>Dark was the night,</q>
         and after exactly a hundred lines of exordium by which the expectation of the reader is
         prepared, they proceed in ten lines more to disclaim all straining after false effect, and
         then relate in a single couplet the adventure of the descent to the vault:</p>
       <p><q>Silent all three went in; about All three turn’d silent, and came out.</q></p>
-      <p>Q. What was the end of the story of the <rs ref="CLghost">Cock Lane Ghost</rs>? A. The condemnation of poor Mr.
+      <p>Q. What was the end of the story of the <ref source="https://babel.hathitrust.org/cgi/pt?id=njp.32101076875358;view=1up;seq=498">Cock Lane <rs ref="ghost">Ghost</rs></ref>? A. The condemnation of poor Mr.
         Parsons to the pillory. Q. May you not conclude from this, that spirit-knocking is unsuited
         to the genius of this country? A. I do not know. The people pitied Mr. Parsons, and no egg
         was lifted up against him.</p>
       <p>The Fox family, by whom this ghostly rapping was revived in America not many years ago,
         were so successful in their venture —retiring very soon upon a little independence —that the
-        spirit trade, as carried on by them, became at once an established business. A ghost in
+        spirit trade, as carried on by them, became at once an established business. A <rs ref="ghost">ghost</rs> in
         Rhode Island, improving upon the practice of his ancestor in Cock Lane, induced a young
         woman to give a dose of arsenic to her stepbrother. In Oneida County there sprang up an
         association of persons who had become, as they said, impressed by the intimacy which was
@@ -155,8 +155,8 @@
           prophetic; acting under the direction, while faithful, as instruments for the distribution
           of truth.</q></p>
       <p>The Fox family, of Rochester, U.S., as we have already said, first revived in America the
-        modern variations on the story of the <rs ref="CLghost">Cock Lane Ghost</rs>. When tested fairly by a perfect
-        stranger, their ghosts rapped out nothing but blunders: however, we are not left even to
+        modern variations on the story of the <rs ref="CLghost">Cock Lane <rs ref="ghost">Ghost</rs></rs>. When tested fairly by a perfect
+        stranger, their <rs ref="ghost">ghosts</rs> rapped out nothing but blunders: however, we are not left even to
         infer the dishonesty of their pretensions; we have clearer evidence, not only of their
         fraud, but of the way in which they practised it. Mrs. Norman Culver, a relation of these
         Foxes, assisted in the depredations upon geese, and shared their secret; but was not so much
@@ -189,7 +189,7 @@
           enough to answer right, if the one who asked the questions called the alphabet.</q> And so
         forth, the rest of the details of trickery being all clumsy and common-place enough.</p>
       <p>This being the substance of our readings in the matter of knocking and rapping spirits, we
-        paid our visit to the London ghosts established in genteel apartments in Upper Seymour
+        paid our visit to the London <rs ref="ghost">ghosts</rs> established in genteel apartments in Upper Seymour
         Street, Portman Square, very soon after we accidentally saw the advertisement we have set
         forth.</p>
       <p>We were two—Brown and Thompson. We rapped at the door of the house in which the knocker
@@ -201,7 +201,7 @@
         spirits —and having replied to the question about our names by stating that our calling was
           <q>in consequence of an advertisement,</q> we were conducted to a drawing-room, in which
         we found that the maid who preceded ns had just lighted the fire. Mr. Stone presently
-        appearing, solemn as became a man who knew his lodgings to he haunted, pointed courteously
+        appearing, solemn as became a man who knew his lodgings to he <rs ref="haunt">haunted</rs>, pointed courteously
         to the sticks that had begun to crackle in the grate over the lighted paper, and murmured
           <q>We have had no fire here: we did not like to light it, for it is so very warm.</q>
         Truly no fire was needed, and we have a reason of our own for citing Mr. Stone’s
@@ -210,7 +210,7 @@
         purpose of demonstrating those wonderful phenomena, which <q>have created the most intense
           excitement in all classes or society,</q> we introduced ourselves by saying that we had
         called in consequence of an<pb/> advertisement; and we sat down before the man who was to
-        bring us to the world of ghosts.</p>
+        bring us to the world of <rs ref="ghost">ghosts</rs>.</p>
       <p><q>You are aware,</q> he said, <q>that I have given a good deal of my attention to
           electro-biology?</q> We {were} aware. <q>I have recently visited America, where great
           sensation has been made by manifestations from the world of spirits, made by means of a
@@ -229,11 +229,11 @@
           speak, whose bodies are surrounded by an atmosphere in which the spirits freely move. In
           the neighbourhood of such a person, spirits manifest themselves. Such a person is a
           <rs ref="medium">Medium</rs>.</q>
-        <q>Your <rs ref="medium">Medium</rs> sits at the table, and the ghosts rap on it?</q> we asked. <q>She must sit
+        <q>Your <rs ref="medium">Medium</rs> sits at the table, and the <rs ref="ghost">ghosts</rs> rap on it?</q> we asked. <q>She must sit
           near the table,</q> answered Mr. Stone, <q>because---we cannot control or account for
           it---the spirits will not knock beyond her influence. That is the nature and the necessity
           of the <rs ref="medium">Medium</rs>, but sometimes the spirits will perform their promise to follow some person
-          to a distant place and knock.</q> (The Ghost of Cock Lane, and the descent into the vault,
+          to a distant place and knock.</q> (The <rs ref="ghost">Ghost</rs> of Cock Lane, and the descent into the vault,
         to witness!) <q>We were demonstrating the other evening at the house of a distinguished
           gentleman in the country, when a spirit promised to be present to him in his library at a
           fixed hour. The gentleman listened, and, being very deaf, heard nothing; but, on holding
@@ -263,7 +263,7 @@
           sometimes to warm her feet three or four times in the course of an evening.</q></p>
       <p>As we sat in the hot room, with the table between us, opposite to the <rs ref="medium">Medium</rs> who sat
         opposite to the fire, we had begun to ponder upon by-gone people, and to think how we could
-        seize <q>the vapoury phantoms of futurity</q> by questioning the ghosts. <q>Can we call any
+        seize <q>the vapoury phantoms of futurity</q> by questioning the <rs ref="ghost">ghosts</rs>. <q>Can we call any
           spirit?</q>
         <q>You can speak only with spirits in the room; the room is full of spirits, and some one
           spirit that is present will often go out, if you wish it, to fetch you another with whom
@@ -288,7 +288,7 @@
         might write down the letters as the spirits I indicated them, and spell out the messages
         delivered from the other world.</p>
       <p>We were quite still. Brown was solemn; Thompson looked into vacancy; the <rs ref="medium">Medium</rs> looked down
-        into the table : we were waiting for a communication from any kind ghost who would</p>
+        into the table : we were waiting for a communication from any kind <rs ref="ghost">ghost</rs> who would</p>
       <p><q>Be as a presence or a motion—one Among the many there.</q>—(Rap-tap.)</p>
       <p><q>There is a rapping!</q> said Mrs. Hayden with an indistinct certainty about the
         expression of her voice, as though she really fancied that she heard a rapping, but might be
@@ -322,10 +322,10 @@
         card, and with a few mistakes in spelling, which were corrected as they were made, but which
         consumed time, the spirit rapped out this sentence : <q>Dear son, I am well pleased to see
           you. I watch over you and God blesses you.</q> Satisfactory, no doubt. A kind of sentence
-        that might be regarded by any reasonable person as a sure proof of the ghost’s authenticity.
+        that might be regarded by any reasonable person as a sure proof of the <rs ref="ghost">ghost</rs>’s authenticity.
         But would she in the next place authenticate her claim to be the mother of Thompson? Would
         she convince her son by telling him her Christian name? Thompson began the alphabet with an
-        inscrutable face : but the light from the fire and window, although good enough for a ghost,
+        inscrutable face : but the light from the fire and window, although good enough for a <rs ref="ghost">ghost</rs>,
         or for a common purpose, was not good for a <rs ref="medium">Medium</rs>. The spirit rapped at T (wrong), at I
         (wrong), at M (wrong); finally made out Timok—truly an odd Christian name for an English
         lady; and having, in this instance, the curious peculiarity that it did not contain a single
@@ -345,15 +345,15 @@
         their sayings were rather affairs of ours, than others. <q>Shall we try again fox-the real
           name?</q>
         <q>No,</q> said Thompson, <q>it is not worth while; I will be satisfied with the first
-          letter of it.</q> It was then most elaborately defined to the ghost, with almost legal
-        periphrasis, what was required, and the ghost by rap-taps declared itself perfectly clear in
+          letter of it.</q> It was then most elaborately defined to the <rs ref="ghost">ghost</rs>, with almost legal
+        periphrasis, what was required, and the <rs ref="ghost">ghost</rs> by rap-taps declared itself perfectly clear in
         its mind, and ready to oblige. <q>So [PAGE BREAK]now for the initial of your Christian name
           in this world?</q>—T. <q>Is that right?</q> asked the <rs ref="medium">Medium</rs>. Thompson said no. <q>Then we
           had better try again, there may be some mistake.</q> The <rs ref="medium">Medium</rs> explained the matter in
         her own way to the table, and trying again, was again quite wrong, and the <rs ref="medium">Medium</rs> proposed
         to try again. Thompson had no doubt, that in not more than twenty-six trials, and, perhaps,
         in one or two less, the right letter could be hit upon : so declared himself content. He
-        would now be glad if the supposed ghost of his mother would condescend to name the year in
+        would now be glad if the supposed <rs ref="ghost">ghost</rs> of his mother would condescend to name the year in
         which she passed into the spirit world. Did she remember it 1 Rap-tap; Would she tell it?
         Rap-tap. And what year was it? Figures being now touched on the card instead of letters,
         there was a tap at one, a tap at eight, a tap at four (wrong, it should have been at two),
@@ -370,10 +370,10 @@
         to be a repetition upon Brown of the dull guesses we had just gone through in the case of
         Thompson. It was the spirit of his mother. (Brown’s mother, he is happy to observe here, is
         alive and well.) Had this spirit of the dead-and-alive anything to say? Yes. A
-        dead-and-alive ghost was the properest for the occasion. The most interminable game at
+        dead-and-alive <rs ref="ghost">ghost</rs> was the properest for the occasion. The most interminable game at
         beggar-my-neighbour is not half So dull and stupid as the knocking out of long and foolish
         sentences from the A. B. C. D. card of a Rapper. Brown must have been regarded as a
-        suspicious character by the <rs ref="medium">Medium</rs>. The ghost of the dead-and-alive, blundering over
+        suspicious character by the <rs ref="medium">Medium</rs>. The <rs ref="ghost">ghost</rs> of the dead-and-alive, blundering over
         letters, tapping back; and, leaving, after all, her sentences in a broken down condition,
         said to Brown, <q>Be candid; investigate; be careful; for this is-God’s Work, my
         son.</q></p>
@@ -400,7 +400,7 @@
         whether she might not be succeeding vastly, although she evidently felt a little puzzled by
         the sense that she was not doing so well as might be expected, was now re-assured by the
         reverent tone in which the too explosive Thompson asked whether the spirit of his sister
-        were in the room. His only sister being in vigorous health, he did not expect her ghost; but
+        were in the room. His only sister being in vigorous health, he did not expect her <rs ref="ghost">ghost</rs>; but
         it was there, and very prompt to answer him. How long had she been dead? Two years.</p>
       <p>So the dreary labour was continued; but we cannot fatigue our readers with the whole
         monotony of a sitting that was not enlivened by one happy guess. After two hours in the
@@ -424,13 +424,13 @@
           angel.</q>
         <q>It is evident from this,</q> argues the Rapper’s pamphlet, <q>that those who were
           gathered together praying, thought it possible for an angel to knock,</q>—we will quote no
-        more of the stuff. This miserable delusion, the ghost of a dead ghost, this clumsiest of all
+        more of the stuff. This miserable delusion, the <rs ref="ghost">ghost</rs> of a dead <rs ref="ghost">ghost</rs>, this clumsiest of all
         the cheats that ever offered folly to be bolted by the greedy appetite of superstition
         without even the courtesy of cooking it a little, did for a short time turn the heads of
         thousands in America. But, even in America—the Land of Promise to the Mormons, and to many
         other sects of fanatics—the Rappers came at last to he generally understood after Mrs.
         Culver’s deposition had been published; the <q>intense excitement in all classes of
-          society</q> died out; and now this ghost of the <rs ref="CLghost">Cock Lane Ghost</rs>, having been laid a second
+          society</q> died out; and now this <rs ref="ghost">ghost</rs> of the <rs ref="CLghost">Cock Lane <rs ref="ghost">Ghost</rs></rs>, having been laid a second
         time, makes a third appearance, more faded than ever, and by advertisement invites <q>the
           nobility and gentry</q> during the present London season, to be present at its
           manifestations—<q>God’s work, my son;</q>—nothing of the Treadmill quality in it.</p>

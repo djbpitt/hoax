@@ -59,6 +59,26 @@
                         <geo>51.5227 -0.1058</geo>
                     </location>
                 </place>
+                <place xml:id="rhodeisland" type="state">
+                    <location>
+                        <geo></geo>
+                    </location>
+                </place>
+                <listPlace xml:id="newyork" type="state">
+                    <place xml:id="auburn" type="college">
+                    <placeName>Auburn</placeName>
+                        <location>
+                            <geo></geo>
+                        </location>
+                    </place>
+                    <place xml:id="arcadia" type="town">
+                        <placeName>Arcadia</placeName>
+                        <location>
+                            <geo></geo>
+                        </location>
+                    </place>
+                </listPlace>
+                
             </listPlace>
         </body>
     </text>

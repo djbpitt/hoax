@@ -60,6 +60,12 @@
                         <forename>J.</forename>
                     </persName>
                 </person>
+                <personGrp xml:id="fox" type="reference" subtype="rapping" role="family">
+                    <persName>
+                        <surname>Fox</surname>
+                    </persName>
+                </personGrp>
+                <person xml:id="culvern" type="reference" subtype="relative" role="family"></person>
             </listPerson>
         </body>
     </text>

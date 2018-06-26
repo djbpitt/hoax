@@ -67,6 +67,16 @@
                 </personGrp>
                 <person xml:id="culvern" type="reference" subtype="relative" role="family"></person>
             </listPerson>
+            <person sex="M" xml:id="brown" type="writer" subtype="householdwords" role="reporter">
+                <persName>
+                    <surname>Brown</surname>
+                </persName>
+            </person>
+            <person sex="M" xml:id="thompson" type="writer" subtype="householdwords" role="reporter">
+                <persName>
+                    <surname>Thompson</surname>
+                </persName>
+            </person>
         </body>
     </text>
 </TEI>

@@ -2,32 +2,52 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title/>
+        <title>The Ghost of the Cock Lane Ghost</title>
+        <author/>
+        <editor>Charles Dickens</editor>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher>Bradbury &amp; Evans</publisher>
+        <pubPlace>
+          <location>
+            <geo/>
+          </location>
+        </pubPlace>
+        <date when="1852-11-20"/>
       </publicationStmt>
       <sourceDesc>
-        <bibl/>
+        <bibl>THE GHOST OF THE COCK LANE GHOST. Household words / conducted by Charles Dickens; Nov
+          20, 1852; 6, 139; British Periodicals pg. 217</bibl>
+
       </sourceDesc>
+
       <!--British Periodicals pg. 217 "Familiar in their Mouths as HOUSEHOLD WORDS."—Shakespeare.
     HOUSEHOLD WORDS. A WEEKLY JOURNAL. CONDUCTED BY CHARLES DICKENS. N°-139. SATURDAY, NOVEMBER 20,
     1852. Price 2d. THE <rs ref="ghost">GHOST</rs> OF THE <rs ref="CL<rs ref="ghost">ghost</rs>">COCK LANE <rs ref="ghost">GHOST</rs></rs>.-->
     </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>This document is part of a larger digital collection of stories of ghost hoaxes from the
+          18th and 19th century London newspapers and periodicals. The project explores the
+          beginnings of mass print media in a metropolitan area at a time when technology and
+          education made reading common and inexpensive.</p>
+      </projectDesc>
+
+    </encodingDesc>
   </teiHeader>
   <text>
     <body>
       <p>We were recently invited into the company of the <rs ref="ghost">Ghost</rs> of the <rs
           ref="CLghost">Cock Lane <rs ref="ghost">Ghost</rs></rs>, by an advertisement in the Times
         Newspaper, in which a demonstrator or showman, <name ref="#stone">Mr. Stone</name>, begged
-          <q>leave to inform the nobility and gentry that he has just returned from <placeName
+          <q who="#stonegw">leave to inform the nobility and gentry that he has just returned from <placeName
             ref="#usa">the United States</placeName>, accompanied by <name ref="#haydenmb">Mrs. M.
             B. Hayden</name> for the purpose of Demonstrating the wonderful Phenomena known in that
           country as Spiritual Manifestations, and which have created the most intense excitement in
           all classes of society—<placeName ref="#r26seymour">Residence, Twenty-six, Upper Seymour
             Street, Portman Square</placeName>. Hours at home, from Eleven to Two and from Four to
           Six.</q> So the announcement ran. We had read something of the Rochester Rappers and of
-        the mystery, if it be a mystery, called <q>spirit knocking</q> in the sentimental language
+        the mystery, if it be a mystery, called <soCalled>spirit knocking</soCalled> in the sentimental language
         of <placeName ref="#usa">America</placeName>. We resolved to visit Mrs. Hayden, and knock up
         an acquaintance with the <rs ref="ghost">ghosts</rs> who meet in her apartments, <placeName
           ref="#r26seymour">No. Twenty-six, Upper Seymour Street, Portman Square.</placeName> We
@@ -38,13 +58,13 @@
         beloved friends whom we have lost speak to us by a noise of rapping, then our most solemn
         feelings and our tenderest emotions are awakened by the act of positive communion with the
         dead.</p>
-      <p>If it be otherwise—if that which is the holiest ground within the human heart be through
-        such exhibitions dug into for gold by coarse impostors—if the simple questioner who with
-        trembling nerves believes that she is brought into the presence of an angel mother with whom
-        it is a foretaste of Heaven to converse—if she be played upon by cheats who laugh under
-        their sleeves at her credulity and turn her money in their pockets,—then such cheating is no
-        matter for amusement. That is an impiety and wickedness far exceeding the measure of an
-        ordinary fraud, which</p>
+      <p>If it be otherwise—if that which is the <rs ref="religious">holiest ground within the human
+          heart be through such exhibitions dug into for gold by coarse impostors—if the simple
+          questioner who with trembling nerves believes that she is brought into the presence of an
+          angel mother with whom it is a foretaste of Heaven to converse—if she be played upon by
+          cheats who laugh under their sleeves at her credulity and turn her money in their
+          pockets,—then such cheating is no matter for amusement.</rs> That is an impiety and
+        wickedness far exceeding the measure of an ordinary fraud, which</p>
       <ab>
         <lb/>trades upon our solemn love towards the dead— <cit>
           <lb/>
@@ -58,24 +78,25 @@
       </ab>
       <p>There have often been people impelled, out of the ignorance and coarseness of their
         natures, to the forging of clumsy tales, in which they themselves, together with the <name
-          ref="#god">Supreme Being</name>, are the chief actors. Not many weeks ago two cowherd’s
+          ref="rel">Supreme Being</name>, are the chief actors. Not many weeks ago two cowherd’s
         children in <placeName ref="#france">France</placeName>—in consequence of information
-        received direct from the <name ref="#virginmary">Virgin Mary</name>—became accredited by
-        Infallibility itself as new apostles. <ref source="FIND">Not many months ago a girl in
-          Suffolk dealt divine information through the neighbourhood, attesting her inspiration by
-          total abstinence from food.</ref> We may read in pamphlets printed centuries ago, how in
-        some parts of Switzerland and France a divine epidemic seized upon the children, how they
-        preached powerfully in their sleep, and were attended at their bedsides by large
-        congregations; or we may read of <q>the German Lazarus</q> who delivered a long list of
-        messages from Heaven, and attested his mission by professing that he never slept. This
-        Lazarus was constantly caught napping; hut he explained the fact to his own honour, by
-        stating that his parents were so much distressed by his incessant wakefulness, that he found
-        it necessary to feign sleep occasionally, for the comfort of their minds.</p>
+        received direct from the <rs ref="rel">Virgin Mary</rs>—became accredited by Infallibility
+        itself as new apostles. <ref
+          source="https://babel.hathitrust.org/cgi/pt?id=njp.32101076875358;view=1up;seq=78">Not
+          many months ago a girl in Suffolk dealt divine information through the neighbourhood,
+          attesting her inspiration by total abstinence from food.</ref> We may read in pamphlets
+        printed centuries ago, how in some parts of Switzerland and France a divine epidemic seized
+        upon the children, how they preached powerfully in their sleep, and were attended at their
+        bedsides by large congregations; or we may read of <q>the German Lazarus</q> who delivered a
+        long list of messages from Heaven, and attested his mission by professing that he never
+        slept. This Lazarus was constantly caught napping; hut he explained the fact to his own
+        honour, by stating that his parents were so much distressed by his incessant wakefulness,
+        that he found it necessary to feign sleep occasionally, for the comfort of their minds.</p>
       <p>Knocking or Rapping <rs ref="ghost">ghosts</rs> are no new imposition. In a relation of
         facts concerning <soCalled>spirit-knockings</soCalled> written in an American pamphlet that
         is now before us, <q>by <name ref="#robinsonj">J. Robinson</name>,</q> we are told much, not
         only of the knockings of the unseen beings, but also of the imitations of evil spirits,
-        which, <q>resembled scratching produced with the fingernails.</q> Now, will any keeper of a
+        which, <q who="#robinsonj">resembled scratching produced with the fingernails.</q> Now, will any keeper of a
         knocking <rs ref="ghost">ghost</rs>, or any lady or gentleman who has taken up the trade of
         communicating between knocking spirits and the gullible portion of the public (which lady or
         gentleman is called in the trade a <rs ref="medium">Medium</rs>), turn to the <ref
@@ -134,22 +155,21 @@
       <p>Q. What was the end of the story of the <ref
           source="https://babel.hathitrust.org/cgi/pt?id=njp.32101076875358;view=1up;seq=498">Cock
           Lane <rs ref="ghost">Ghost</rs></ref>? A. The condemnation of poor Mr. Parsons to the
-        pillory. Q. May you not conclude from this, that <rs ref="rapping">spirit-knocking</rs> is
+        pillory. Q. May you not conclude from this, that <rs ref="rap">spirit-knocking</rs> is
         unsuited to the genius of this country? A. I do not know. The people pitied <name
           ref="#parsonsr">Mr. Parsons</name>, and no egg was lifted up against him.</p>
-      <p>The <name ref="#fox">Fox</name> family, by whom this <rs ref="rapping">ghostly rapping</rs>
-        was revived in America not many years ago, were so successful in their venture —retiring
-        very soon upon a little independence —that the spirit trade, as carried on by them, became
-        at once an established business. A <rs ref="ghost">ghost</rs> in <placeName
-          ref="#rhodeisland">Rhode Island</placeName>, improving upon the practice of his ancestor
-        in <placeName ref="#cocklane">Cock Lane</placeName>, induced a young woman to give a dose of
-        arsenic to her stepbrother. In Oneida County there sprang up an association of persons who
-        had become, as they said, impressed by the intimacy which was springing up between the world
-        of flesh and the world of spirits. These people, taking the coarse view of things that
-        superstition favours, believed that we were on the point of realising that state of affairs
-        of which we read in <ref
-          source="http://www.gutenberg.org/cache/epub/8187/pg8187-images.html">Moore’s Loves of the
-          Angels</ref>, or in <ref
+      <p>The <name ref="#fox">Fox</name> family, by whom this <rs ref="rap">ghostly rapping</rs> was
+        revived in America not many years ago, were so successful in their venture —retiring very
+        soon upon a little independence —that the spirit trade, as carried on by them, became at
+        once an established business. A <rs ref="ghost">ghost</rs> in <placeName ref="#rhodeisland"
+          >Rhode Island</placeName>, improving upon the practice of his ancestor in <placeName
+          ref="#cocklane">Cock Lane</placeName>, induced a young woman to give a dose of arsenic to
+        her stepbrother. In Oneida County there sprang up an association of persons who had become,
+        as they said, impressed by the intimacy which was springing up between the world of flesh
+        and the world of spirits. These people, taking the coarse view of things that superstition
+        favours, believed that we were on the point of realising that state of affairs of which we
+        read in <ref source="http://www.gutenberg.org/cache/epub/8187/pg8187-images.html">Moore’s
+          Loves of the Angels</ref>, or in <ref
           source="https://www.gutenberg.org/files/23475/23475-h/23475-h.htm#HEAVEN_AND_EARTH_TITLE"
           >Byron’s Heaven and Earth</ref>. <q>Spirits,</q> they said, <q>are beginning to have power
           to form friendships and connexions with mortals,</q> and since, as they declared, it would
@@ -157,109 +177,118 @@
         possible desires, of spirits, two hundred men and sixty women—having a few <rs ref="medium"
           >mediums</rs>, no doubt, among their number—abolished marriages. Emboldened by the
         credulity of thousands who believed in the establishment of a direct communication with the
-        spirit world, some blasphemous persons at <placeName ref="#auburn">Auburn</placeName>, in the State of <placeName ref="newyork">New York</placeName>—determined that
-        no dark recess of profanity, out of which gold could be taken, should be left unvisited—
-        published a newspaper, conducted by <rs type="religious">the Apostles and the Prophets, under the direction of
-        the Lord Supreme!</rs> We quote from the prospectus, simply stating that the publication of the
-        newspaper therein announced did really take place, and was, in fact, a very dreary sample of
-        the lucubrations of the Rappers. <q>This publication,</q> the prospectus said, <q>is
-          dictated by spirits out of the flesh, and by them edited, superintended, and controlled.
-          Its object is, the disclosure of truth from Heaven, guiding mankind into<pb/> open visions
-          of Paradise; open communication with spirits redeemed; and proper and progressive
-          understanding of the Holy Scriptures, and of the merits of Jesus Christ, from whom they
-          originated in inspiration absolute, and of whom they teach, as the only Saviour of a
-          dissevered and bewildered race. The circle of Apostles and Prophets are its conductors
-          from the interior; holding control over its columns, and permitting no article to find
-          place therein unless originated, dictated, or admitted by them; they acting under the
-          direction of the Lord Supreme. <name>James Congdon</name>, <name>Charles Coventry</name>, <name>Andrew L. Wilson</name>, and
-          <name>Lonson Bush</name> are its publishers and proprietor; they having become, in full confidence of
-          mind, disciples of the Lord, and being present external agents of the circle apostolic and
-          prophetic; acting under the direction, while faithful, as instruments for the distribution
-          of truth.</q></p>
-      <p>The <name ref="#fox">Fox</name> family, of Rochester, U.S., as we have already said, first revived in America the
-        modern variations on the story of the <rs ref="CLghost">Cock Lane <rs ref="ghost"
-          >Ghost</rs></rs>. When tested fairly by a perfect stranger, their <rs ref="ghost"
-          >ghosts</rs> rapped out nothing but blunders: however, we are not left even to infer the
-        dishonesty of their pretensions; we have clearer evidence, not only of their fraud, but of
-        the way in which they practised it. <name ref="#culvern">Mrs. Norman Culver</name>, a relation of these <name ref="#fox">Foxes</name>, assisted
-        in the depredations upon geese, and shared their secret; but was not so much a wonder of a
-        woman as to keep it. She therefore made a formal deposition, certified by two respectable
-        witnesses, at the town of <placeName ref="#arcadia">Arcadia</placeName>, in the province of <placeName ref="#newyork">New York</placeName>, in which, among other things
-        she said, <q>I am, by marriage, a relation of the Fox girls; their brother married my
-          husband’s sister. The girls have been a great deal at my house, and for about two years I
-          was a very sincere believer in the rappings; but some things which I saw when I was
-          visiting the girls at Rochester made me suspect that they were deceiving. I resolved to
-          satisfy myself in some way; and some time afterwards I made a proposition to Catherine to
-          assist her in producing the manifestations. I had a cousin visiting me from Michigan, who
-          was going to consult the spirits, and I told Catherine that if he intended to go to
-          Detroit, it would be a great thing for them to convince him. I also told her that if I
-          could do anything to help her, I would do it cheerfully [damage] I should probably be able
-          to answer ail the questions he would ask, and I would do it if she would show me how to
-          make the raps. She said that as Margaretta was absent, she wanted somebody to help her,
-          and that if I would become a <rs ref="medium">Medium</rs>, she would explain it all to
-          me.</q> Mrs. Culver thus became an accomplice, and after she had assisted a few times in
-        conveying hints that would suffice for the conquest of her sceptical cousin from Detroit,
-        after a brief probation, she was admitted to a full participation in the mysteries.</p>
-      <p>We call particular attention to her story. <q>The raps,</q> deposed Mrs. Culver, <q>are
-          produced with the toes. All the toes are used. After nearly a week’s practice, with
-          Catherine showing me how, I could produce them perfectly myself. At first it was very hard
-          work to do it. Catherine told me to warm my feet, or put them in warm water, and it would
-          then be easier work to rap; she said that she had sometimes to warm her feet three or four
-          times in the course of an evening. I found that heating my feet did enable me to rap a
-          great deal easier. I have sometimes produced a hundred and fifty raps in succession. I can
-          rap with all the toes on both feet; it is most difficult to rap with the great toe.
-          Catherine told me how to manage to answer the questions. She said it was generally easy
-          enough to answer right, if the one who asked the questions called the alphabet.</q> And so
-        forth, the rest of the details of trickery being all clumsy and common-place enough.</p>
-      <p>This being the substance of our readings in the matter of knocking and rapping spirits, we
-        paid our visit to the London <rs ref="ghost">ghosts</rs> established in genteel apartments
-        in <placeName ref="r26seymour">Upper Seymour Street, Portman Square</placeName>, very soon after we accidentally saw the
-        advertisement we have set forth.</p>
-      <p>We were two—Brown and Thompson. We rapped at the door of the house in which the knocker
-        lived, on a cloudy and warm evening in the beginning of this present November, which month
-        began, as all the country knows, with days unusually dull and close. We do not idly talk
-        about the weather, for it has a definite connection with our story. Having inquired whether
-        Mr. Stone was at home, well knowing that he was—for he had advertised himself to be at home
-        at that hour in the evening to all parties who desired an introduction to the world of
-        spirits —and having replied to the question about our names by stating that our calling was
-          <q>in consequence of an advertisement,</q> we were conducted to a drawing-room, in which
-        we found that the maid who preceded us had just lighted the fire. Mr. Stone presently
-        appearing, solemn as became a man who knew his lodgings to be <rs ref="haunt">haunted</rs>,
-        pointed courteously to the sticks that had begun to crackle in the grate over the lighted
-        paper, and murmured <q>We have had no fire here: we did not like to light it, for it is so
-          very warm.</q> Truly no fire was needed, and we have a reason of our own for citing Mr.
-        Stone’s corroboration of the fact.</p>
-      <p>To Mr. Stone, who <q>had just returned from the United States</q> with Mrs. Hayden, for the
-        purpose of demonstrating those wonderful phenomena, which <q>have created the most intense
-          excitement in all classes or society,</q> we introduced ourselves by saying that we had
-        called in consequence of an<pb/> advertisement; and we sat down before the man who was to
-        bring us to the world of <rs ref="ghost">ghosts</rs>.</p>
-      <p><q>You are aware,</q> he said, <q>that I have given a good deal of my attention to
-          electro-biology?</q> We {were} aware. <q>I have recently visited America, where great
+        spirit world, some blasphemous persons at <placeName ref="#auburn">Auburn</placeName>, in
+        the State of <placeName ref="newyork">New York</placeName>—determined that no dark recess of
+        profanity, out of which gold could be taken, should be left unvisited— published a
+        newspaper, conducted by <rs type="religious">the Apostles and the Prophets, under the
+          direction of the Lord Supreme!</rs> We quote from the prospectus, simply stating that the
+        publication of the newspaper therein announced did really take place, and was, in fact, a
+        very dreary sample of the lucubrations of the Rappers. <q>This publication,</q> the
+        prospectus said, <q>is dictated by spirits out of the flesh, and by them edited,
+          superintended, and controlled. Its object is, the disclosure of truth from Heaven, guiding
+          mankind into<pb/> open visions of Paradise; open communication with spirits redeemed; and
+          proper and progressive understanding of the Holy Scriptures, and of the merits of Jesus
+          Christ, from whom they originated in inspiration absolute, and of whom they teach, as the
+          only Saviour of a dissevered and bewildered race. The circle of Apostles and Prophets are
+          its conductors from the interior; holding control over its columns, and permitting no
+          article to find place therein unless originated, dictated, or admitted by them; they
+          acting under the direction of the Lord Supreme. <name>James Congdon</name>, <name>Charles
+            Coventry</name>, <name>Andrew L. Wilson</name>, and <name>Lonson Bush</name> are its
+          publishers and proprietor; they having become, in full confidence of mind, disciples of
+          the Lord, and being present external agents of the circle apostolic and prophetic; acting
+          under the direction, while faithful, as instruments for the distribution of truth.</q></p>
+      <p>The <name ref="#fox">Fox</name> family, of Rochester, U.S., as we have already said, first
+        revived in America the modern variations on the story of the <rs ref="CLghost">Cock Lane <rs
+            ref="ghost">Ghost</rs></rs>. When tested fairly by a perfect stranger, their <rs
+          ref="ghost">ghosts</rs> rapped out nothing but blunders: however, we are not left even to
+        infer the dishonesty of their pretensions; we have clearer evidence, not only of their
+        fraud, but of the way in which they practised it. <name ref="#culvern">Mrs. Norman
+          Culver</name>, a relation of these <name ref="#fox">Foxes</name>, assisted in the
+        depredations upon geese, and shared their secret; but was not so much a wonder of a woman as
+        to keep it. She therefore made a formal deposition, certified by two respectable witnesses,
+        at the town of <placeName ref="#arcadia">Arcadia</placeName>, in the province of <placeName
+          ref="#newyork">New York</placeName>, in which, among other things she said, <q who="#haydenmb">I am, by
+          marriage, a relation of the <name ref="#fox">Fox</name> girls; <rs ref="#fox">their
+            brother</rs> married my husband’s sister. The girls have been a great deal at my house,
+          and for about two years I was a very sincere believer in the <rs ref="rapping"
+            >rappings</rs>; but <rs ref="doubt">some things which I saw when I was visiting the
+            girls at Rochester made me suspect that they were deceiving</rs>. I resolved to satisfy
+          myself in some way; and some time afterwards I made a proposition to <name ref="#fox"
+            >Catherine</name> to assist her in producing the manifestations. I had a cousin visiting
+          me from Michigan, who was going to consult the spirits, and I told Catherine that if he
+          intended to go to Detroit, it would be a great thing for them to convince him. I also told
+          her that if I could do anything to help her, I would do it cheerfully. I should probably
+          be able to answer all the questions he would ask, and I would do it if she would show me
+          how to <rs ref="rap">make the raps</rs>. She said that as <name ref="#fox"
+            >Margaretta</name> was absent, she wanted somebody to help her, and that if I would
+          become a <rs ref="medium">Medium</rs>, she would explain it all to me.</q> Mrs. Culver
+        thus became an accomplice, and after she had assisted a few times in conveying hints that
+        would suffice for the conquest of her sceptical cousin from Detroit, after a brief
+        probation, she was admitted to a full participation in the mysteries.</p>
+      <p>We call particular attention to her story. <q who="culvern"><rs ref="rapping">The raps</rs>,</q> deposed
+          <name ref="#culvern">Mrs. Culver</name>, <q who="culvern">are produced with the toes. All the toes are
+          used. After nearly a week’s practice, with Catherine showing me how, I could produce them
+          perfectly myself. At first it was very hard work to do it. <rs ref="rapping">Catherine
+            told me to warm my feet, or put them in warm water, and it would then be easier work to
+            rap; she said that she had sometimes to warm her feet three or four times in the course
+            of an evening. I found that heating my feet did enable me to rap a great deal easier. I
+            have sometimes produced a hundred and fifty raps in succession. I can rap with all the
+            toes on both feet; it is most difficult to rap with the great toe.</rs> Catherine told
+          me how to manage to answer the questions. She said it was generally easy enough to answer
+          right, if the one who asked the questions called the alphabet.</q> And so forth, the rest
+        of the details of trickery being all clumsy and common-place enough.</p>
+      <p>This being the substance of our <rs ref="rapping">readings in the matter of knocking and
+          rapping spirits</rs>, we paid our visit to the London <rs ref="ghost">ghosts</rs>
+        established in genteel apartments in <placeName ref="r26seymour">Upper Seymour Street,
+          Portman Square</placeName>, very soon after we accidentally saw the advertisement we have
+        set forth.</p>
+      <p>We were two—<name ref="#brown">Brown</name> and <name ref="#thompson">Thompson</name>. We
+        rapped at the door of the house in which the knocker lived, on a cloudy and warm evening in
+        the beginning of this present November, which month began, as all the country knows, with
+        days unusually dull and close. We do not idly talk about the weather, for it has a definite
+        connection with our story. Having inquired whether Mr. Stone was at home, well knowing that
+        he was—for he had advertised himself to be at home at that hour in the evening to all
+        parties who desired an introduction to the world of spirits —and having replied to the
+        question about our names by stating that our calling was <q who="#brown #thompson">in consequence of an
+          advertisement,</q> we were conducted to a drawing-room, in which we found that the maid
+        who preceded us had just lighted the fire. <name ref="#stonegw">Mr. Stone</name> presently appearing, solemn as became a
+        man who knew his lodgings to be <rs ref="haunt">haunted</rs>, pointed courteously to the
+        sticks that had begun to crackle in the grate over the lighted paper, and murmured <q who="#stonegw">We
+          have had no fire here: we did not like to light it, for it is so very warm.</q> Truly no
+        fire was needed, and we have a reason of our own for citing Mr. Stone’s corroboration of the
+        fact.</p>
+      <p>To <name ref="stonegw">Mr. Stone</name>, who <q who="stonegw">had just returned from the United
+          States</q> with <name ref="haydenm">Mrs. Hayden</name>, for the purpose of demonstrating
+        those wonderful phenomena, which <q>have created the most intense excitement in all classes
+          or society,</q> we introduced ourselves by saying that we had called in consequence of
+        an<pb/> advertisement; and we sat down before the man who was to bring us to the world of
+          <rs ref="ghost">ghosts</rs>.</p>
+      <p><q who="#stonegw">You are aware,</q> he said, <q who="#stonegw">that I have given a good deal of my attention to
+          electro-biology?</q> We {were} aware. <q who="#stonegw"><rs ref="rapping">I have recently visited <placeName ref="#usa">America</placeName>, where great
           sensation has been made by manifestations from the world of spirits, made by means of a
-          noise, like rapping. You have perhaps heard of the Rappers?</q> Something; we came there
-        to be informed. <q>It is very curious,</q> said Mr.Stone. <q>I have examined these
+          noise, like rapping. You have perhaps heard of the Rappers?</rs></q> Something; we came there
+        to be informed. <q who="#stonegw">It is very curious,</q> said <name ref="#stonegw">Mr.Stone</name>. <q who="#stonegw">I have examined these
           manifestations with great industry, and I have arrived at the conviction that they are
           true, that they cannot be explained by human minds, that they really do emanate from the
           spirit world. The lady whom I have brought with me is decidedly the best <rs ref="medium"
             >Medium</rs> I met with, and I, therefore, thought it well that the phenomena should be
           investigated in this country.</q> Mr. Stone here pausing and looking into the fire, we
-        inquired what might be the theory of <rs ref="medium">Mediums</rs>? <q>It is very
-          singular,</q> said Mr. Stone. <q>There are some persons in whose sphere the spirits have
-          more power. The grossness of matter commonly repels them, but there are some people whose
-          nervous systems appear to act---you know how delicate the nervous system is---whose
-          nervous systems appear to act as---we can only suppose, of course, we do not profess to
-          account for these things---as conductors, as magnets, so to speak, whose bodies are
-          surrounded by an atmosphere in which the spirits freely move. In the neighbourhood of such
-          a person, spirits manifest themselves. Such a person is a <rs ref="medium"
-          >Medium</rs>.</q>
-        <q>Your <rs ref="medium">Medium</rs> sits at the table, and the <rs ref="ghost">ghosts</rs>
-          rap on it?</q> we asked. <q>She must sit near the table,</q> answered Mr. Stone,
-          <q>because---we cannot control or account for it---the spirits will not knock beyond her
+        inquired what might be the theory of <rs ref="medium">Mediums</rs>? <q who="#stonegw">It is very
+          singular,</q> said <name ref="#stonegw">Mr. Stone</name>. <q who="#stonegw">There are some persons in
+          whose sphere the spirits have more power. The grossness of matter commonly repels them,
+          but there are some people whose nervous systems appear to act--you know how delicate the
+          nervous system is--whose nervous systems appear to act as--we can only suppose, of course,
+          we do not profess to account for these things--as conductors, as magnets, so to speak,
+          whose bodies are surrounded by an atmosphere in which the spirits freely move. In the
+          neighbourhood of such a person, spirits manifest themselves. Such a person is a <rs
+            ref="medium">Medium</rs>.</q>
+        <q who="#brown #thompson">Your <rs ref="medium">Medium</rs> sits at the table, and the <rs ref="ghost">ghosts</rs>
+          rap on it?</q> we asked. <q who="#stonegw">She must sit near the table,</q> answered <name ref="#stonegw">Mr. Stone</name>,
+          <q>because--we cannot control or account for it--the spirits will not knock beyond her
           influence. That is the nature and the necessity of the <rs ref="medium">Medium</rs>, but
           sometimes the spirits will perform their promise to follow some person to a distant place
           and knock.</q> (The <rs ref="ghost">Ghost</rs> of Cock Lane, and the descent into the
-        vault, to witness!) <q>We were demonstrating the other evening at the house of a
+        vault, to witness!) <q who="#stonegw">We were demonstrating the other evening at the house of a
           distinguished gentleman in the country, when a spirit promised to be present to him in his
           library at a fixed hour. The gentleman listened, and, being very deaf, heard nothing; but,
           on holding his ear more attentively, he said that he distinctly thought he caught a
@@ -269,15 +298,15 @@
       <p>When Mr. Stone had further talked about distinguished patronage, and about the wonders that
         had been performed, one of us suggested to him, delicately, as unwilling to hurt his
         feelings by implying too roughly that a man who trembled on the confines of the other world
-        could think of money, that <q>Of<pb/> course we knew that his time was not wholly given to
-          the public---that there was some honorarium,</q> the reply was prompt. <q>One guinea each
+        could think of money, that <q who="#brown #thompson">Of<pb/> course we knew that his time was not wholly given to
+          the public--that there was some honorarium,</q> the reply was prompt. <q who="#stonegw">One guinea each
           person, or five guineas for a party of ten.</q> This being understood, we felt our way to
-        the inquiry, which we shaped as well as we could, <q>When will the performance begin?</q>
-        The reply being in effect <q>We take in each party separately,</q> we signified our desire
+        the inquiry, which we shaped as well as we could, <q who="#brown #thompson">When will the performance begin?</q>
+        The reply being in effect <q who="#stonegw">We take in each party separately,</q> we signified our desire
         to be taken in as soon as possible.</p>
       <p>The door into the back drawing-room being then opened, we were introduced to Mr. and Mrs.
         Hayden, the <rs ref="medium">Medium’s</rs> husband, and the <rs ref="medium">Medium</rs>.
-        Introduction having been promptly made, we were left---we, Messrs. Brown and Thompson --- in
+        Introduction having been promptly made, we were left--we, Messrs. Brown and Thompson--in
         the lady’s hands. She sat opposite to us on one side of the round table, firm as a rock.</p>
       <p>The <rs ref="medium">Medium</rs> sat not only opposite to us; but opposite to the fire. It
         had first occurred to us when we went into that back drawing-room, that the kitchen had come

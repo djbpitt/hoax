@@ -61,25 +61,44 @@
                 </place>
                 <place xml:id="rhodeisland" type="state">
                     <location>
-                        <geo></geo>
+                        <geo>41.75038 -71.49978</geo>
                     </location>
                 </place>
                 <listPlace xml:id="newyork" type="state">
                     <place xml:id="auburn" type="college">
                     <placeName>Auburn</placeName>
                         <location>
-                            <geo></geo>
+                            <geo>42.93173 -76.56605</geo>
                         </location>
                     </place>
                     <place xml:id="arcadia" type="town">
                         <placeName>Arcadia</placeName>
                         <location>
-                            <geo></geo>
+                            <geo>43.08705 -77.08576</geo>
                         </location>
                     </place>
                 </listPlace>
-                
+                <place xml:id="bath" type="town">
+                    <placeName>Bath</placeName>
+                    <location>
+                        <geo>51.3751 -2.36172</geo>
+                    </location>
+                </place>
+                <place xml:id="wolverton_rail" type="railway_station">
+                    <placeName>Wolverton Station</placeName>
+                    <location>
+                        <geo>52.0653 -0.80357</geo>
+                    </location>
+                </place>
+                <place xml:id="holytrinity" type="church">
+                    <placeName>Holy Trinity Church</placeName>
+                    <placeName>Wolverton Churchyard</placeName>
+                    <location>
+                        <geo>52.06423 -0.82979</geo>
+                    </location>
+                </place>
             </listPlace>
+            
         </body>
     </text>
 </TEI>

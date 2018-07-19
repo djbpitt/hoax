@@ -1,0 +1,44 @@
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <desc>A small advertisement for a book. The advertisement indicates a work of fiction concerned with a robber who impersonates a ghost.</desc>
+            <titleStmt>
+                <title>A Ghost</title>
+                <author/>
+                <editor/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Age</publisher>
+                <pubPlace>
+                    <location>
+                        <geo/>
+                    </location>
+                </pubPlace>
+                
+                <date when="1832-01-15"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>"A Ghost." The Age, 15 Jan. 1832, p. 23. 19th Century UK Periodicals, http://tinyurl.com/yaxzvbaf.  Accessed 31 July 2017.</bibl>
+                
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>This document is part of a larger digital collection of stories of ghost hoaxes from
+                    the 18th and 19th century British newspapers and periodicals. The project explores
+                    the beginnings of mass print media in metropolitan areas at a time when technology
+                    and education made reading for pleasure common and inexpensive.</p>
+            </projectDesc>
+            
+        </encodingDesc>
+    </teiHeader>
+    
+        <text><title>A GHOST</title>.— <body>There is one of the most remarkable personifiations— if such a term may be
+            allowed— of a Ghost, in the the singular story of <q>The Robber,</q> which has just appeared
+            from the pen of <name type="publication">Blackwood's</name> well-known contributor. The schemes of the Robber are most
+            ingeniously and naturally contrived to depend, for their fulfillment, almost upon a
+            miracle; and it is the phantom-stratagem which he practices, that most marvelously works
+            out his security, and eventually his doom.
+    </body>
+   </text>
+</TEI>

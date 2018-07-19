@@ -77,6 +77,16 @@
                     <surname>Thompson</surname>
                 </persName>
             </person>
+            <person sex="M" xml:id="kinghn" type="interviewee" role="photographer" source="https://tinyurl.com/yda4hfuq">
+                <persName>
+                    <surname>King</surname>
+                    <forename>Horatio</forename>
+                    <forename>Nelson</forename>
+                </persName>
+            </person>
+            <person sex="M" xml:id="blackshag" type="ghost">
+                <persName>Black Shag</persName>
+            </person>
         </body>
     </text>
 </TEI>

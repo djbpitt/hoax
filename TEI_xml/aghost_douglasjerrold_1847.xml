@@ -7,11 +7,18 @@
                 <editor/>
             </titleStmt>
             <publicationStmt>
-                <publisher>Douglas Jerrold's Weekly Newspaper</publisher>
+                <publisher type="original">Sunderland Herald</publisher>
+                <publisher type="reprint">Douglas Jerrold's Weekly Newspaper</publisher>
                 <pubPlace>
-                    <placeName>Sutherland</placeName>
+                    <placeName type="original">Sunderland</placeName>
                     <location>
                         <geo/>
+                    </location>
+                </pubPlace>
+                <pubPlace>
+                    <placeName>London</placeName>
+                    <location>
+                        <geo></geo>
                     </location>
                 </pubPlace>
                 
@@ -35,15 +42,15 @@
     
     <text>
         <title>A Ghost!—</title>
-        <body>The other evening a young lady had occasion to go homewards down one of the lanes
+        <body><p>The other evening a young lady had occasion to go homewards down one of the lanes
             leading from the Building-hill. The night was moderately dark, and misses head was full
             of <rs ref="ghost">witches, ghosts, worrikows, bogles, and long-beaked indescribables</rs>. At a particular
-            point, she noted a veritable ghost, and set up such a scream as awakened all the echoes
+            point, <rs ref="ghost">she noted a veritable ghost</rs>, and set up such a scream as awakened all the echoes
             in the neighbourhood, and very deaf ones they are, and fainted away.—Several parties,
             deeming murder had been committed, ran to the spot, and found miss prostrate, and the
             cause of her fright —a white ass, mumbling its scanty supper, drawn from the hedge. She
             is not yet convinced that she did not see a spirit, and has been very ill since. If
             young ladies fainted away at the sight of every ass frequenting these lanes, by day as
-            well as by night, burnt feathers would be at a premium.—Sunderland Herald. </body>
+            well as by night, burnt feathers would be at a premium.—<title type="publisher">Sunderland Herald</title>.</p></body>
     </text>
 </TEI>

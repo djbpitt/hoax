@@ -1,4 +1,4 @@
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -7,8 +7,8 @@
                 <editor/>
             </titleStmt>
             <publicationStmt>
-                <publisher type="original">Sunderland Herald</publisher>
-                <publisher type="reprint">Douglas Jerrold's Weekly Newspaper</publisher>
+                <publisher rendition="original">Sunderland Herald</publisher>
+                <publisher rendition="reprint">Douglas Jerrold's Weekly Newspaper</publisher>
                 <pubPlace>
                     <placeName type="original">Sunderland</placeName>
                     <location>
@@ -16,7 +16,7 @@
                     </location>
                 </pubPlace>
                 <pubPlace>
-                    <placeName>London</placeName>
+                    <placeName type="reprint">London</placeName>
                     <location>
                         <geo></geo>
                     </location>
@@ -41,7 +41,7 @@
     </teiHeader>
     
     <text>
-        <title>A Ghost!—</title>
+        
         <body><p>The other evening a young lady had occasion to go homewards down one of the lanes
             leading from the Building-hill. The night was moderately dark, and misses head was full
             of <rs ref="ghost">witches, ghosts, worrikows, bogles, and long-beaked indescribables</rs>. At a particular

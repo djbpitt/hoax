@@ -1,12 +1,12 @@
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            <desc>A small advertisement for a book. The advertisement indicates a work of fiction concerned with a robber who impersonates a ghost.</desc>
             <titleStmt>
                 <title>A Ghost</title>
                 <author/>
                 <editor/>
             </titleStmt>
+            
             <publicationStmt>
                 <publisher>The Age</publisher>
                 <pubPlace>
@@ -19,7 +19,6 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>"A Ghost." The Age, 15 Jan. 1832, p. 23. 19th Century UK Periodicals, http://tinyurl.com/yaxzvbaf.  Accessed 31 July 2017.</bibl>
-                
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
@@ -33,12 +32,13 @@
         </encodingDesc>
     </teiHeader>
     
-        <text><title>A GHOST</title>.— <body>There is one of the most remarkable personifiations— if such a term may be
+        <text>
+            <body><p>There is one of the most remarkable personifiations— if such a term may be
             allowed— of a Ghost, in the the singular story of <q>The Robber,</q> which has just appeared
             from the pen of <name type="publication">Blackwood's</name> well-known contributor. The schemes of the Robber are most
             ingeniously and naturally contrived to depend, for their fulfillment, almost upon a
             miracle; and it is the phantom-stratagem which he practices, that most marvelously works
-            out his security, and eventually his doom.
+            out his security, and eventually his doom.</p>
     </body>
    </text>
 </TEI>

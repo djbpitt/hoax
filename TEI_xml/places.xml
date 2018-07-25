@@ -97,6 +97,12 @@
                         <geo>52.06423 -0.82979</geo>
                     </location>
                 </place>
+            <place xml:id="londonbridge">
+                <placeName>London Bridge</placeName>
+                <location>
+                    <geo>51.50821 -0.08763</geo>
+                </location>
+            </place>
             </listPlace>
             
         </body>

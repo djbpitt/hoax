@@ -1,4 +1,4 @@
-﻿<TEI> 
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -31,8 +31,8 @@
          
       </encodingDesc>
    </teiHeader>
-  <body> 
-   <text>  
+  <text>
+   <body> 
    <p><title>A New <soCalled>Ghost</soCalled>,</title>— <name ref="#kinghn">Mr H. N. King</name>,
       photographer, of <placeName ref="#bath">Bath</placeName>, according to a correspondent, is the inventor and patentee of a
       marvellous <rs ref="ghost">ghost</rs>. In this new invention, <name ref="#kinghn">Mr. King</name> claims superiority in every respect over any
@@ -41,4 +41,6 @@
       without the least distortion. In addition to this, the <soCalled><rs ref="ghost">ghosts</rs></soCalled> of an entire set of furniture
       for a room can be shown at once on the stage, every object being clear and distinct. <name ref="#kinghn">Mr. King</name>,
       adds our authority, dispenses entirely with lenses as now used, and has reduced the whole to a
-      formula so simple, that a child may with ease and safety work the machinery.</p></text></body></TEI>
+      formula so simple, that a child may with ease and safety work the machinery.</p></body>
+  </text>
+</TEI>

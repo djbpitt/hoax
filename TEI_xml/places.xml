@@ -119,6 +119,14 @@
                     <placeName>Usedom</placeName>
                     <location><geo>53.87537 13.92394</geo></location>
                 </place>
+                <place xml:id="strellin">
+                    <placeName>Strellin</placeName>
+                    <location><geo>53.98385 13.49001</geo></location>
+                </place>
+                <place xml:id="damm">
+                    <placeName>Dammbecke</placeName>
+                    <location><geo>53.5512 14.12396</geo></location>
+                </place>
             </listPlace>
             
         </body>

@@ -87,6 +87,9 @@
             <person sex="M" xml:id="blackshag" type="ghost">
                 <persName>Black Shag</persName>
             </person>
+            <person sex="M" xml:id="schweim" type="ghost">
+                <persName>Schweim</persName>
+            </person>
         </body>
     </text>
 </TEI>

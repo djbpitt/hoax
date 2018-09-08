@@ -103,6 +103,22 @@
                     <geo>51.50821 -0.08763</geo>
                 </location>
             </place>
+                <place xml:id="gutskow">
+                    <placeName>Gützkow</placeName>
+                    <location>
+                        <geo>53.93921 13.40899</geo>
+                    </location>
+                </place>
+                <place xml:id="wulgast">
+                    <placeName>Wolgast</placeName>
+                    <location>
+                        <geo>54.05275 13.77201</geo>
+                    </location>
+                </place>
+                <place xml:id="usedom">
+                    <placeName>Usedom</placeName>
+                    <location><geo>53.87537 13.92394</geo></location>
+                </place>
             </listPlace>
             
         </body>

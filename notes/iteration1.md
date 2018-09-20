@@ -1,6 +1,5 @@
 # Iteration 1 Presentation Notes
 
-![cartoon ghostie](ghost.png)
 
 ## Is this really iteration one?
 

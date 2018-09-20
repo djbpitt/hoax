@@ -1,6 +1,6 @@
 # Guidelines for reference
 
-## Editing
+## Editing and Markup
 
 ### Metadata
 * Date
@@ -10,19 +10,19 @@
 * Editor
 * Author (if possible)
 * Personography
-* Publication address?
+* Publication address (if possible)
 * Source/Citation
+
 ### Body
 * Paragraph organization
 * Place references
 * People references
 * Direct references to personography
-* Indirect references to unidentified people
 * Political/class references
-* This is a little bit difficult to parse? 
-* What is a class reference? Reference to a person’s economic standing, so servant/master?
+* Religious/spiritual references
 * Ghost references
 * Framing devices
+* common plot tropes (crowd gathers, rapping/tapping, young female medium, etc.)
 
 ## Collecting
 * “non-fiction”: news reports in a paper of record, or another newspaper that mostly publishes news stories and editorials
@@ -33,7 +33,7 @@
 * Alternatively, a true account which USES some ghost story as a tool to further some other idea, likely political
 * “fictional reporting of ambiguity”: a most likely fictional account of a hoax or possible hoax, still framed as non-fiction reported to the author, the author expresses some doubt about the reliability of the ghost story
  
-### Non-fiction
+### What is non-fiction?
 * Ambiguous non-fiction
 * Fictional reporting of ambiguity:[Ghost Cut Ghost](../clippings/periodicals/ghostcutghost_chambers_1889.pdf)
 * Something I don’t want (but will probably collect and then exclude anyway): [Ghost of a Ghost Story](../clippings/periodicals/ghostofastory_bentleys_1847.pdf)
@@ -47,10 +47,10 @@ According to Copyright Aid, I am within my rights to make full transcriptions of
 
 Editorial Notes
 
-Using ABBYY Finereader (FIGURE OUT WHICH VERSION) to create transcriptions of texts. There are a few issues with ABBYY that I need to either address or work around
+Using ABBYY Finereader 14 to create transcriptions of texts. There are a few issues with ABBYY that I need to either address or work around
 1. Two column items sometimes are read the way a human would read them: left column and then right column. Other times, columns are read from left to right as a human would read a one-column text. This can happen in the same text, sort of an every-other-page deal. Fixing it consumes time, so this problem needs some attention.
 1. Typographic long em dashes are longer than modern em dashes. Regardless, double em dashes are bad and single em dashes are good, so find all the double em dashes and replace them with single em dashes.
-1. Quotation marks, question marks, and other punctuation should not be separated from letters with a space. Typographically this was done to improve readability, but with computer text it is distracting
+1. Quotation marks, question marks, and other punctuation should not be separated from letters with a space. Typographically this was done to improve readability, but with computer text it is distracting.
 1. Capital letters, especially ALL CAPS, can often be misread. Using Notepad ++ or another plain text editor with spell check features is helpful for catching these errors
 1. Curly quotes should be used. David Birnbaum is partially to blame for this, but also when I go tag quotations the Regex is a heck of a lot easier.
 
@@ -61,6 +61,7 @@ Using ABBYY Finereader (FIGURE OUT WHICH VERSION) to create transcriptions of te
 * `<body>`: for my purposes we don't need both of these elements, but they're both required, so we'll have both
 * `<p>`: for paragraphs
 * `<q>`: for quotes, of all kinds
+* `<ref>`: for all manner of references. possibly abusing this.
 * `<ab>`: anonymous block, which I'm possibly abusing at the moment
 * `<lb>`: line beginning, goes at the beginning of lines, is only ever a milestone tag
 * `<pb>`: page beginning, goes at the beginning of pages (don't forget the first one!) HINT: in the cleaning stage, I used [PAGE BREAK] to denote page breaks

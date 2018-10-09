@@ -1,0 +1,37 @@
+#!/bin/bash
+
+# sysinfo_page - A script to produce an HTML file
+
+title="System Information for"
+
+cat <<- _EOF_
+    <html>
+    <head>
+        <title>
+        $title $HOSTNAME
+        </title>
+    </head>
+
+    <body>
+    <h1>$title $HOSTNAME</h1>
+    <p>Updated on $(date +"%x %r %Z") by $USER</p>
+    </body>
+    </html>
+_EOF_
+
+Approach 1:
+1. copy all your .txt files into a folder
+2. replace beginning and end of file with TEI root element, header, and body
+3. change all filenames to end with .xml
+
+Approach 2: 
+1. put all the .txt files in a variable
+2. cat a TEI doc with the variable inside it into a file
+3. name the file by replacing .txt with .xml
+
+Approach 3 (XSLT):
+1. scream
+2. match on the document node (run over self)
+3. for each thing in collection, make a new result document
+4. make a variable that replaces .txt with .xml
+5. ?? scream more

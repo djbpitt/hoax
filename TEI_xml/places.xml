@@ -97,35 +97,54 @@
                         <geo>52.06423 -0.82979</geo>
                     </location>
                 </place>
-            <place xml:id="londonbridge">
+            <place xml:id="londonbridge" type="bridge">
                 <placeName>London Bridge</placeName>
                 <location>
                     <geo>51.50821 -0.08763</geo>
                 </location>
             </place>
-                <place xml:id="gutskow">
+                <place xml:id="gutskow" type="town">
                     <placeName>Gützkow</placeName>
                     <location>
                         <geo>53.93921 13.40899</geo>
                     </location>
                 </place>
-                <place xml:id="wulgast">
+                <place xml:id="wulgast" type="town">
                     <placeName>Wolgast</placeName>
                     <location>
                         <geo>54.05275 13.77201</geo>
                     </location>
                 </place>
-                <place xml:id="usedom">
+                <place xml:id="usedom" type="town">
                     <placeName>Usedom</placeName>
                     <location><geo>53.87537 13.92394</geo></location>
                 </place>
-                <place xml:id="strellin">
+                <place xml:id="strellin" type="town">
                     <placeName>Strellin</placeName>
                     <location><geo>53.98385 13.49001</geo></location>
                 </place>
-                <place xml:id="damm">
+                <place xml:id="damm" type="town">
                     <placeName>Dammbecke</placeName>
                     <location><geo>53.5512 14.12396</geo></location>
+                </place>
+                <place xml:id="pentonville" type="neighborhood">
+                    <placeName>Pentonville</placeName>
+                    <location>
+                        <geo>51.5318579 -0.1084232</geo>
+                    </location>
+                    <bibl>https://www.british-history.ac.uk/survey-london/vol47/pp322-338</bibl>
+                </place>
+                <place xml:id="copenhouse" type="pub">
+                    <placeName>Copenhagen House</placeName>
+                    <location>
+                        <geo>51.5361033 -0.1122418</geo>
+                    </location>
+                </place>
+                <place xml:id="hattonpol">
+                    <placeName>Hatton Garden Police Station</placeName>
+                    <location>
+                        <geo>51.5180277 -0.1077023</geo>
+                    </location>
                 </place>
             </listPlace>
             

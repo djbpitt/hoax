@@ -16,15 +16,10 @@
         <date when="1852-11-20"/>
       </publicationStmt>
       <sourceDesc>
-        <bibl>THE GHOST OF THE COCK LANE GHOST. Household words / conducted by Charles Dickens; Nov
-          20, 1852; 6, 139; British Periodicals pg. 217</bibl>
-
+        <bibl>THE GHOST OF THE COCK LANE GHOST. Household words / conducted by Charles Dickens; Saturday, Nov
+          20, 1852; 6, 139; British Periodicals pg. 217.</bibl>
       </sourceDesc>
-
-      <!--British Periodicals pg. 217 "Familiar in their Mouths as HOUSEHOLD WORDS."—Shakespeare.
-    HOUSEHOLD WORDS. A WEEKLY JOURNAL. CONDUCTED BY CHARLES DICKENS. N°-139. SATURDAY, NOVEMBER 20,
-    1852. Price 2d. THE <rs ref="ghost">GHOST</rs> OF THE <rs ref="CL<rs ref="ghost">ghost</rs>">COCK LANE <rs ref="ghost">GHOST</rs></rs>.-->
-    </fileDesc>
+</fileDesc>
     <encodingDesc>
       <projectDesc>
         <p>This document is part of a larger digital collection of stories of ghost hoaxes from the

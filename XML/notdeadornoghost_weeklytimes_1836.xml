@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author/>
+            <editor/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher/>
+            <pubPlace>
+               <location>
+                  <geo/>
+               </location>
+            </pubPlace>
+            <date when=""/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This document is part of a larger digital collection of stories of ghost hoaxes from
+               the 18th and 19th century London newspapers and periodicals. The project explores the
+               beginnings of mass print media in a metropolitan area at a time when technology and
+               education made reading common and inexpensive.</p>
+         </projectDesc>
+
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>﻿Not Dead, or No Ghost
+
+On Saturday the following extraordinary circumstance was communicated at Hatton Garden:— About six weeks ago a young woman drowned herself in the canal, and the body was owned by a Mrs. Edwards, of Nelson’s Passage, Goswell Street, as that of her missing sister. After the inquest the deceased was conveyed in a shell to the residence of Mrs. Edwards, when the usual preparations were made for the funeral. The whole of the family went into mourning and followed the body to the grave, deeply deploring the untimely fate of their relative. On Friday, however, as Mrs. Edwards was passing through Goswell Street Road, she was almost petrified at beholding what she conceived to be the ghost of her deceased sister. She started back, and after staring at the form for a short time, she ran off, when the “apparation” pursued her, calling out. “Mary, stop; Mary, stop;” but this had the effect of increasing her alarm so much, that the poor woman fell down in strong hysterics. When she recovered it was soon proved to her that it was no ghost but her real and living sister. The mystery was then unravelled, it appearing that Mr. Edwards’s sister, had, in consequence of a quarrel with her husband, determined on going into the country, and living with him no longer. The clothes of the deceased have been forwarded to the police. It has not yet been ascertained who the deceased was.</p>
+      </body>
+   </text>
+</TEI>

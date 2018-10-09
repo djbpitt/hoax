@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author/>
+            <editor/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher/>
+            <pubPlace>
+               <location>
+                  <geo/>
+               </location>
+            </pubPlace>
+            <date when=""/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This document is part of a larger digital collection of stories of ghost hoaxes from
+               the 18th and 19th century London newspapers and periodicals. The project explores the
+               beginnings of mass print media in a metropolitan area at a time when technology and
+               education made reading common and inexpensive.</p>
+         </projectDesc>
+
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>﻿SCIENCE.
+
+A New “Ghost,”
+
+Mr H. N. King, photographer, of Bath, according to a correspondent, is the inventor and patentee of a marvellous ghost. In this new invention, Mr. King claims superiority in every respect over any “ghost” yet produced. Under his new arrangement he does away with the necessity of ceiling the stage, and can introduce any number of figures, each with perfect freedom of action, and without the least distortion. In addition to this, the “ghosts” of an entire set of furniture for a room can be shown at once on the stage, every object being clear and distinct. Mr. King, adds our authority, dispenses entirely with lenses as now used, and has reduced the whole to a formula so simple, that a child may with ease and safety work the machinery.</p>
+      </body>
+   </text>
+</TEI>

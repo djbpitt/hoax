@@ -35,3 +35,8 @@ Approach 3 (XSLT):
 3. for each thing in collection, make a new result document
 4. make a variable that replaces .txt with .xml
 5. ?? scream more
+
+Actual solution:
+for doc in text/*; do cat open $doc close; > XML/${doc%.txt}.xml; done
+
+% cuts from the back (this is why I ended up needing to cut off the second .txts in some places)

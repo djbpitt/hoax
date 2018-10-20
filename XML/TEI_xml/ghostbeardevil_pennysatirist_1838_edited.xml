@@ -3,21 +3,21 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title/>
+            <title>A ghost, a bear, or a devil</title>
             <author/>
             <editor/>
          </titleStmt>
          <publicationStmt>
-            <publisher/>
+            <publisher>John Bull</publisher>
             <pubPlace>
                <location>
                   <geo/>
                </location>
             </pubPlace>
-            <date when=""/>
+            <date when="1838-01-20"/>
          </publicationStmt>
          <sourceDesc>
-            <bibl></bibl>
+            <bibl/>
          </sourceDesc>
 
       </fileDesc>
@@ -33,7 +33,13 @@
    </teiHeader>
    <text>
       <body>
-         <p>A ghost, a bear, or a devil—for it seems not to be settled, which—has been going the round of the suburbs of the metropolis, frightening nursery maids into fits, and ladies into hysterics, and as far as its antics have yet been played, with perfect impunity. Kew is one of the places named as the scene of its pranks, probably from the reputation of one of its late residents. had not King Ernest gone to Hanover, never, we trust, to come back, we could easily have accounted for the demon's appearance in that quarter. —[Satirist].</p>
+         <p>A ghost, a bear, or a devil—for it seems not to be settled, which—has been going the
+            round of the suburbs of the metropolis, frightening nursery maids into fits, and ladies
+            into hysterics, and as far as its antics have yet been played, with perfect impunity.
+            Kew is one of the places named as the scene of its pranks, probably from the reputation
+            of one of its late residents. had not King Ernest gone to Hanover, never, we trust, to
+            come back, we could easily have accounted for the demon's appearance in that quarter.
+            —[Satirist].</p>
       </body>
    </text>
 </TEI>

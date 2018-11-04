@@ -22,6 +22,7 @@
 * Religious/spiritual references
 * Ghost references
 * Framing devices
+* Explicit references to hoaxes (hoax)
 * common plot tropes (crowd gathers, rapping/tapping, young female medium, etc.)
 
 ## Collecting

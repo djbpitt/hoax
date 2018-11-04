@@ -130,6 +130,7 @@
                 <place xml:id="pentonville" type="neighborhood">
                     <placeName>Pentonville</placeName>
                     <location>
+                        <settlement>Clerkenwell</settlement>
                         <geo>51.5318579 -0.1084232</geo>
                     </location>
                     <bibl>https://www.british-history.ac.uk/survey-london/vol47/pp322-338</bibl>
@@ -137,14 +138,32 @@
                 <place xml:id="copenhouse" type="pub">
                     <placeName>Copenhagen House</placeName>
                     <location>
+                        <settlement>Islington</settlement>
                         <geo>51.5361033 -0.1122418</geo>
                     </location>
                 </place>
                 <place xml:id="hattonpol">
                     <placeName>Hatton Garden Police Station</placeName>
                     <location>
+                        <settlement>Hatton Garden</settlement>
                         <geo>51.5180277 -0.1077023</geo>
                     </location>
+                </place>
+                <place xml:id="WCHouse" type="pub">
+                    <settlement>Notting Hill</settlement>
+                    <placeName>White Conduit House</placeName>
+                    <location>
+                        <geo> 51.5343086 -0.1112730</geo>
+                        
+                    </location>
+                </place>
+                <place xml:id="CTLane" type="street">
+                    <placeName>Cut-throat Lane</placeName>
+                    <location>
+                        <settlement>Islington</settlement>
+                        <geo>51.5087683 -0.2097627</geo>
+                    </location>
+                    <bibl>https://pubshistory.com/LondonPubs/Islington/WhiteConduit.shtml</bibl>
                 </place>
             </listPlace>
             

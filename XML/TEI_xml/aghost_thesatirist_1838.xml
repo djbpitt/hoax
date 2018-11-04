@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>THE GHOST.</title>
+                <title>The Ghost</title>
                 <author/>
                 <editor/>
             </titleStmt>
@@ -99,15 +99,15 @@
                 and thinks, and thinks that she knows, I send you a present of one of my dear
                 kittens stuffed.</p><closer><salute>Believe me your affectionate Herald
                 Office.</salute><persName>Grandmama.</persName></closer></div>
-            <div><p>We hasten to give a place to the following from the M-P-ric of Finsbury:—</p>
+            <div><p>We hasten to give a place to the following from the M-P-ric of <placeName>Finsbury</placeName>:—</p>
             <div><opener><salute>Dear Sat—</salute></opener><p>An absurd report having got abroad that I am the ghost,
                 or devil, monster, or whatever it may be died, by which the suburbs of London are
                 reported to be haunted, I shall feel obliged by your giving a contradiction to the
                 same. I am neither ghost nor demon, although a devil of a fellow for moral and
                 medical dissection; nor have I been playing any pranks lately, except in the House
-                of Common and at White Conduit House. I never wear a bear-skin dress, nor array
+                of Common and at <placeName ref="WCHouse">White Conduit House</placeName>. I never wear a bear-skin dress, nor array
                 myself in a white sheet to frighten nursery girls out of their senses; nor was I
-                seen in <soCalled>Cut-throat Lane</soCalled> the other evening, clawing the clothes off the backs of
+                seen in <soCalled><placeName ref="CTLane">Cut-throat Lane</placeName></soCalled> the other evening, clawing the clothes off the backs of
                 several females, as reported in the papers. It if true that many years back I cut
                 off the head of Thistlewood after his execution, having figured as <q>the man in the
                 mask</q> on the scaffold. But, my dear Sat, I submit that this trifling circumstance

@@ -10,7 +10,7 @@
          <publicationStmt>
             <publisher>The Times</publisher>
             <pubPlace>
-               <placeName>London</placeName>
+               <placeName ref="london">London</placeName>
                <location>
                   <geo/>
                </location>
@@ -35,8 +35,8 @@
    </teiHeader>
    <text>
       <body>
-         <p>Notwithstanding the sad catastrophe occasioned by the Hammersmith Ghost,
-            another apparition has appeared. This nightly wanderer has chosen St. James’s Park for a
+         <p>Notwithstanding the sad catastrophe occasioned by the <rs ref="hammersmith_ghost"><placeName ref="hammersmith">Hammersmith</placeName> Ghost</rs>,
+            another apparition has appeared. This nightly wanderer has chosen <placeName ref="stjamespark">St. James’s Park</placeName> for a
             place of rendezvous, where it has been regularly seen by the soldiers on guard for
             upwards of a week past, between the hours of one and two o’clock in the morning. A few
             nights ago, it was observed at a late hour by one of the Coldstream Regiment, whilst on

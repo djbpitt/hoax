@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>SCIENCE: A new “Ghost”</title>
+            <title>SCIENCE: A new <q>Ghost</q></title>
             <author></author>
             <editor></editor>
          </titleStmt>
@@ -34,7 +34,7 @@
    </teiHeader>
   <text>
    <body> 
-   <p><title>A New <soCalled>Ghost</soCalled>,</title>— <name ref="#kinghn">Mr H. N. King</name>,
+   <p><name ref="#kinghn">Mr H. N. King</name>,
       photographer, of <placeName ref="#bath">Bath</placeName>, according to a correspondent, is the inventor and patentee of a
       marvellous <rs ref="ghost">ghost</rs>. In this new invention, <name ref="#kinghn">Mr. King</name> claims superiority in every respect over any
       <soCalled><rs ref="ghost">ghost</rs></soCalled> yet produced. Under his new arrangement he does away with the necessity of ceiling the

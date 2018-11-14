@@ -90,6 +90,12 @@
             <person sex="M" xml:id="schweim" type="ghost">
                 <persName>Schweim</persName>
             </person>
+            <person sex="F" xml:id="ccrowe" type="author" source="https://www.kent.ac.uk/library/specialcollections/other/catherine-crowe/index.html#">
+                <persName>
+                    <surname>Crowe</surname>
+                    <forename>Catherine</forename>
+                </persName>
+            </person>
         </body>
     </text>
 </TEI>

@@ -16,6 +16,39 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="london" type="city">
+                    <placeName>London</placeName>
+                    <location>
+                        <geo>51.5073219 -0.1276474</geo>
+                    </location>
+                   <place xml:id="ilford" type="neighborhood">
+                       <placeName>Ilford</placeName>
+                       <location>
+                           <geo>51.5582734s 0.0711669</geo>
+                       </location>
+                   </place> 
+                   <place xml:id="kensington" type="neighborhood">
+                       <placeName>Kensington</placeName>
+                       <location>
+                           <geo>51.4989948 -0.1991229</geo>
+                       </location>
+                   </place>
+                    <place xml:id="hammersmith" type="neighborhood">
+                        <placeName>Hammersmith</placeName>
+                        <location>
+                            <geo>51.4920377 -0.2236401</geo>
+                        </location>
+                    </place>
+                    <place xml:id="walthamstow" type="neighborhood">
+                        <placeName>Walthamstow</placeName>
+                        <place xml:id="stjamespark" type="park">
+                            <placeName>St. James Park</placeName>
+                            <location>
+                                <geo>51.577116 -0.037871</geo>
+                            </location>
+                        </place>
+                    </place>
+                </place>
                 <place xml:id="usa" type="country">
                     <placeName rend="the United States">United States of America</placeName>
                 </place>
@@ -153,7 +186,7 @@
                     <settlement>Notting Hill</settlement>
                     <placeName>White Conduit House</placeName>
                     <location>
-                        <geo> 51.5343086 -0.1112730</geo>
+                        <geo>51.5343086 -0.1112730</geo>
                         
                     </location>
                 </place>
@@ -164,6 +197,66 @@
                         <geo>51.5087683 -0.2097627</geo>
                     </location>
                     <bibl>https://pubshistory.com/LondonPubs/Islington/WhiteConduit.shtml</bibl>
+                </place>
+                <place xml:id="frenchcolony" type="neighborhood">
+                    <placeName>French Colony</placeName>
+                    <location>
+                        <settlement>Pentonville</settlement>
+                        <geo>51.5320640 -0.1223565</geo>
+                    </location>
+                </place>
+                <place xml:id="haggerstone" type="neighborhood">
+                    <placeName>Haggerstone</placeName>
+                    <location>
+                        <settlement>Haggerston</settlement>
+                        <geo>51.5320940 -0.0707674</geo>
+                    </location>
+                
+                <place xml:id="haggerstonechurch" type="church">
+                    <placeName>Haggerstone Church Yard, St Marys</placeName>
+                    <location>
+                        <geo>51.53427 -0.07101</geo>
+                    </location>
+                </place>
+                </place>
+                <place xml:id="robertstreet" type="station">
+                    <placeName>Station-house at Robert Street</placeName>
+                    <location>
+                        <settlement>Hoxton</settlement>
+                        <geo>51.5087383 -0.1227247</geo>
+                    </location>
+                </place>
+                <place xml:id="hull" type="town">
+                    <placeName>Hull</placeName>
+                    <location>
+                        <geo>53.7435722 -0.3394758</geo>
+                    </location>
+                    <place xml:id="anlabyrd" type="road">
+                        <placeName>Anlaby-road (sic)</placeName>
+                        <location>
+                            <geo>53.7429064 -0.3513376</geo>
+                        </location>
+                        
+                    </place>
+                    <place xml:id="wellingtonln" type="haunted_house">
+                        <placeName>Wellington Lane</placeName>
+                        <location>
+                            <geo>53.742940 -0.352661</geo>
+                        </location>
+                    </place>
+                </place>
+              <place xml:id="cardross" type="neighborhood">
+                  <placeName>Cardross</placeName>
+                  <location>
+                      <settlement>Dumbartonshire</settlement>
+                      <geo>55.9628546 -4.6486472</geo>
+                  </location>
+                  <place xml:id="drumhead" type="haunted_house">
+                   <placeName>Drumhead</placeName>
+                   <location>
+                       <geo>55.97713888888889 -4.664861111111112</geo>
+                   </location>
+               </place>
                 </place>
             </listPlace>
             

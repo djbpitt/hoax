@@ -33,9 +33,9 @@
    </teiHeader>
    <text>
       <body>
-         <p>A case similar to that of the celebrated Stockwell ghost has led to some proceedings at
+         <p>A case similar to that of the celebrated <rs ref="stockwellghost">Stockwell ghost</rs> has led to some proceedings at
             the Southwark police-court. A working man named Baker, and his wife and daughter,
-            occupied a house in the neighbourhood of London-street, Dockhead, and for some time past
+            occupied a house in the neighbourhood of <placeName ref="londonstreet">London-street, Dockhead,</placeName> and for some time past
             the man and woman have been alarmed by singular noises occurring in various parts of the
             house, and by the breaking of crockery, glass, &amp;c., which were thrown about without
             any apparent cause. Baker and his wife were greatly scared by these mysteries, and at

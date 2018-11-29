@@ -39,14 +39,34 @@
                             <geo>51.4920377 -0.2236401</geo>
                         </location>
                     </place>
-                    <place xml:id="walthamstow" type="neighborhood">
-                        <placeName>Walthamstow</placeName>
+                    <place xml:id="Westminster" type="neighborhood">
+                        <placeName>Westminster</placeName>
                         <place xml:id="stjamespark" type="park">
-                            <placeName>St. James Park</placeName>
+                            <placeName>St. James's Park</placeName>
                             <location>
-                                <geo>51.577116 -0.037871</geo>
+                                <geo>51.504408 -0.131632</geo>
+                                <geo cert="high">51.501336 -0.129939</geo>
                             </location>
                         </place>
+                        <place xml:id="cockpit" type="theatre">
+                            <placeName>The Royal Cockpit</placeName>
+                            <placeName>Cockpit-in-Court</placeName>
+                            <location>
+                                <geo>51.501029 -0.131719</geo>
+                            </location>
+                        </place>
+                        <place xml:id="stjamesscanal" type="feature">
+                            <placeName>St. James's Canal</placeName>
+                            <location>
+                                <geo>51.502189 -0.135175</geo>
+                            </location>
+                        </place>
+                    </place>
+                    <place xml:id="londonstreet" type="street">
+                        <placeName>London-street, Dockhead</placeName>
+                        <location>
+                            <geo>51.500571 -0.071017</geo>
+                        </location>
                     </place>
                 </place>
                 <place xml:id="usa" type="country">
@@ -257,6 +277,12 @@
                        <geo>55.97713888888889 -4.664861111111112</geo>
                    </location>
                </place>
+                </place>
+                <place xml:id="sale" type="town">
+                    <placeName>Sale</placeName>
+                    <location>
+                        <geo>53.4245221 -2.3183899</geo>
+                    </location>
                 </place>
             </listPlace>
             

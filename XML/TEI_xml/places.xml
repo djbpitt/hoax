@@ -283,6 +283,24 @@
                     <location>
                         <geo>53.4245221 -2.3183899</geo>
                     </location>
+                    <place xml:id="brooklands" type="geo">
+                        <placeName>The Brooklands</placeName>
+                        <location>
+                            <geo>53.4139076, -2.3213704</geo>
+                        </location>
+                    </place>
+                    <place xml:id="sale_canal">
+                        <placeName>Sale Canal</placeName>
+                        <location>
+                            <geo>53.4144 -2.3288</geo>
+                        </location>
+                    </place>
+                </place>
+                <place xml:id="altrincham" type="town">
+                    <placeName>Altrincham</placeName>
+                    <location>
+                        <geo>53.3839662 -2.3525463</geo>
+                    </location>
                 </place>
             </listPlace>
             

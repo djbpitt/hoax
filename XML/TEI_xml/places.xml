@@ -33,11 +33,41 @@
                            <geo>51.4989948 -0.1991229</geo>
                        </location>
                    </place>
-                    <place xml:id="hammersmith" type="neighborhood">
+                    <place xml:id="kew" type="suburb">
+                        <placeName>Kew</placeName>
+                        <location>
+                            <geo>51.4806629 -0.2919292</geo>
+                        </location>
+                    </place>
+                    <place xml:id="hammersmith" type="suburb">
                         <placeName>Hammersmith</placeName>
                         <location>
                             <geo>51.4920377 -0.2236401</geo>
                         </location>
+                        <place xml:id="blacklionlane-fields">
+                            <placeName>the field adjacent Black-lion Lane</placeName>
+                            <location>
+                                <geo>51.49201 -0.24404</geo>
+                            </location>
+                        </place>
+                        <place xml:id="blacklionlane" type="street">
+                            <placeName>Black-lion Lane</placeName>
+                            <location>
+                                <geo>51.49214 -0.24247</geo>
+                            </location>
+                            <place xml:id="blacklionpub">
+                            <placeName>Black Lion Pub</placeName>
+                            <location>
+                                <geo>51.490229 -0.241846</geo>
+                            </location>
+                        </place>
+                            <place xml:id="beaverlanecross" type="alley">
+                                <placeName>alley between Beaver Lane and Black-lion Lane</placeName>
+                                <location>
+                                    <geo>51.49214 -0.24247</geo>
+                                </location>
+                            </place>
+                        </place>
                     </place>
                     <place xml:id="Westminster" type="neighborhood">
                         <placeName>Westminster</placeName>
@@ -67,6 +97,15 @@
                         <location>
                             <geo>51.500571 -0.071017</geo>
                         </location>
+                    </place>
+                    <place xml:id="bermondsey" type="neighborhood">
+                        <placeName>Bermondsey</placeName>
+                        <place xml:id="grangeroad" type="street">
+                            <placeName>Grange road</placeName>
+                            <location>
+                                <geo>51.49504 -0.07665</geo>
+                            </location>
+                        </place>
                     </place>
                 </place>
                 <place xml:id="usa" type="country">

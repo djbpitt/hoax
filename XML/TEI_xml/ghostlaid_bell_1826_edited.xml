@@ -33,7 +33,7 @@
    </teiHeader>
    <text>
       <body>
-         <p>﻿A respectable old gentleman, residing not many miles from the New Church,in the Strand,
+         <p>﻿A respectable old gentleman, residing <placeName ref="amb">not many miles from the New Church,in the Strand</placeName>,
             and certainly not very superstitious, was, in the course of the last week, alarmed by an
             extraordinary and mysterious noise in his house, for which he was, for some nights,
             unable to account, and which, at length, almost removed his scepticism on the subject of

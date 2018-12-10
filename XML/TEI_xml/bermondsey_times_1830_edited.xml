@@ -33,17 +33,17 @@
    </teiHeader>
    <text>
       <body>
-         <p> For sonic days past the Grange-road, Bermondsey, has been the scene of much commotion,
+         <p> For some days past the <placeName ref="#grangeroad">Grange-road, Bermondsey</placeName>, has been the scene of much commotion,
             owing to a report, very generally circulated, that a ghost was in the habit of making
             its appearance nightly at the window of an uninhabited house in that neighbourhood. The
             dwelling in which this nocturnal vister was declared, and believed by many, to have been
             seen, was a few years ago the residence of a clergyman of very eccentric habits. He
             lived a very retired life, and for many years preceding his death was scarcely ever seen
-            by his neighbours. On these occasions that he [exhibted] himself to the public gaze, he
+            by his neighbours. On these occasions that he <sic>exhibted</sic> himself to the public gaze, he
             generally placed himself in one of the windows of the first floor, dressed in a very
             grotesque manner, and always made a point of appearing with a huge night-cap on his head
             and a pipe in his mouth. In consequence of his eccentricities he was believed by many of
-            his neigh hours to be mad, although he never displayed any more symptoms of insanity
+            his neighbours to be mad, although he never displayed any more symptoms of insanity
             than those above described. Since his decease, which took place a short time ago, the
             house has been shut up, and it now appears that only a few days had been suffered to
             elapse from the time that he was removed from his dwelling to his grave when a report
@@ -56,7 +56,7 @@
             Hammersmith ghosts played in their time: for instance, there is no rattling or noises
             heard from within; no huge stones flung at people’s heads as they pass along, or windows
             smashed, or cries and lamentations heard from within the building. Although none of
-            these vagaries have been played off by the Bermondsey ghost, yet it has been asserted by
+            these vagaries have been played off by <rs ref="bermondseyghost">the Bermondsey ghost</rs>, yet it has been asserted by
             persons who have entered the house after nightfall, that they have witnessed not only
             the ghost of the late occupier, but also the ghosts of former landlords, and that upon
             one occasion they all vanished together in a blaze of fire up the chimney, without,
@@ -68,7 +68,7 @@
             to has been blocked up by men, women, and children, many of whom remain all night on the
             watch in the expectation of seeing the ghost, and the clamour they make while there
             renders it impossible for those residing near the spot to get any rest. To such a height
-            has this annoyance arisen, that application was made at the Station-house on Monday
+            has this annoyance arisen, that application was made <placeName ref="unknown">at the Station-house</placeName> on Monday
             night for the assistance of the police to disperse the crowd, which amounted at one
             period of that evening to at least 2,000 persons. The whole force of the division was
             called into action, and it was with considerable trouble they cleared the road; so

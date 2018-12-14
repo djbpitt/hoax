@@ -21,6 +21,12 @@
                     <location>
                         <geo>51.5073219 -0.1276474</geo>
                     </location>
+                   <place xml:id="hampstead" type="neighborhood">
+                       <placeName>Hampstead</placeName>
+                       <location>
+                           <geo>51.5542879 -0.1740747</geo>
+                       </location>
+                   </place>
                    <place xml:id="ilford" type="neighborhood">
                        <placeName>Ilford</placeName>
                        <location>

@@ -64,6 +64,23 @@
                                 <geo>51.487553 -0.222181</geo>
                             </location>
                         </place>
+                        <place xml:id="starchgreen" type="park">
+                            <placeName>Starch Green</placeName>
+                            <location>
+                                <geo>51.499975 -0.239543</geo>
+                            </location>
+                        </place>
+                        <place xml:id="angellane" type="street">
+                            <placeName>Angel Lane</placeName>
+                            <location>
+                                <geo>51.491824 -0.228086</geo>
+                            </location>
+                            <place xml:id="angelpub" type="pub">
+                                <placeName>Angel Public House</placeName>
+                                <location><geo>51.492368, -0.228302</geo></location>
+                            </place>
+                        </place>
+                        
                         <place xml:id="blacklionlane-fields">
                             <placeName>the field adjacent Black-lion Lane</placeName>
                             <location>
@@ -261,13 +278,17 @@
                         <geo>51.5361033 -0.1122418</geo>
                     </location>
                 </place>
-                <place xml:id="hattonpol">
+                <place xml:id="hattongarden">
+                    <placeName>Hatton Garden</placeName>
+                    <location>
+                        <geo>51.519380 -0.108121</geo>
+                    </location>
+                    <place xml:id="hattonpol">
                     <placeName>Hatton Garden Police Station</placeName>
                     <location>
-                        <settlement>Hatton Garden</settlement>
                         <geo>51.5180277 -0.1077023</geo>
                     </location>
-                </place>
+                </place></place>
                 <place xml:id="WCHouse" type="pub">
                     <settlement>Notting Hill</settlement>
                     <placeName>White Conduit House</placeName>

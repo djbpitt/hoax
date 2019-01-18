@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Untitled</title>
+            <title>Notwithstanding our repeated publications...</title>
             <author/>
             <editor/>
          </titleStmt>
@@ -35,7 +35,7 @@
    <text>
       <body>
          <p>﻿Notwithstanding our repeated publications of the documents upon which our details
-            respecting the St. James’s Park Ghost were founded, still certain Prints continue to
+            respecting the <rs ref="stjparkghost">St. James’s Park Ghost</rs> were founded, still certain Prints continue to
             charge us with having fabricated the story. We do not pretend to <q>take the Ghost’s word</q>
             against reason and philosophy, at the same time we thought it our duty to enquire into
             the foundation of the rumours, which had for so many days played upon the public

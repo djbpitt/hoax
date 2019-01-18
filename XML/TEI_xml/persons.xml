@@ -16,86 +16,93 @@
     <text>
         <body>
             <listPerson>
-                <person sex="M" xml:id="stonegw" corresp="cocklaneghost_householdwords_1852.xml" type="subject" role="showman" source="https://tinyurl.com/y9udxbh3">
+                <person sex="M" xml:id="stonegw" role="showman" >
                     <persName>
                         <surname>Stone</surname>
                         <forename>George W.</forename>
                     </persName>
+                    <bibl>https://tinyurl.com/y9udxbh3</bibl>
                 </person>
-                <person sex="F" xml:id="haydenmb" type="subject" role="medium" source="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/hayden-maria-b-ca-1852">
+                <person sex="F" xml:id="haydenmb" role="medium">
                     <persName>
                         <surname>Hayden</surname>
                         <forename>Maria B.</forename>
                     </persName>
+                    <bibl>https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/hayden-maria-b-ca-1852</bibl>
                 </person>
-                <person sex="M" xml:id="wordsworth" type="reference" subtype="literary" role="poet" source="https://en.wikipedia.org/wiki/William_Wordsworth#External_links">
+                <person sex="M" xml:id="wordsworth"  role="poet">
                     <persName>
                         <surname>Wordsworth</surname>
                         <forename>William</forename>
                     </persName>
+                    <bibl>https://en.wikipedia.org/wiki/William_Wordsworth#External_links</bibl>
                 </person>
-                <person sex="N" xml:id="god" type="reference" subtype="religious" role="god">
-                    <persName>
-                        <surname>God</surname>
-                    </persName>
-                </person>
-                <person sex="F" xml:id="virginmary" type="reference" subtype="religious" role="saint">
-                    <persName>Mary</persName>
-                </person>
-                <person sex="F" xml:id="parsonse" type="reference" subtype="hoax" role="medium child">
+                <person sex="F" xml:id="parsonse" role="medium child">
                     <persName>
                         <surname>Parsons</surname>
                         <forename>Elizabeth</forename>
                     </persName>
+                    <bibl>Elizabeth Parsons was the child involved in the Cock Lane Ghost story. Parsons rappings drew the attention of the neighborhood, though eventually it was discovered she was fabricating the story, possibly at the behest of her father.</bibl>
                 </person>
-                <person sex="F" xml:id="lynesf" type="reference" subtype="hoax" role="ghost">
+                <person sex="F" xml:id="lynesf" role="ghost">
                     <persName>
                         <surname>Lynes</surname>
                         <forename>Fanny</forename>
                     </persName>
+                    <bibl>Fanny Lynes was the woman supposed to be haunting the Parsons' home. It has been suggested that Lynes was poisoned with arsenic, though this cannot be confirmed.</bibl>
                 </person>
-                <person sex="U" xml:id="robinsonj" type="reference" subtype="text" role="spiritualist author">
+                <person sex="U" xml:id="robinsonj" role="spiritualist author">
                     <persName>
                         <surname>Robinson</surname>
                         <forename>J.</forename>
                     </persName>
                 </person>
-                <personGrp xml:id="fox" type="reference" subtype="rapping" role="family">
+                <personGrp xml:id="fox" role="family">
                     <persName>
                         <surname>Fox</surname>
                     </persName>
                 </personGrp>
-                <person xml:id="culvern" type="reference" subtype="relative" role="family"></person>
-            </listPerson>
-            <person sex="M" xml:id="brown" type="writer" subtype="householdwords" role="reporter">
+                <person xml:id="culvern" role="family"></person>
+            
+            <person sex="M" xml:id="brown"  role="reporter">
                 <persName>
                     <surname>Brown</surname>
                 </persName>
             </person>
-            <person sex="M" xml:id="thompson" type="writer" subtype="householdwords" role="reporter">
+            <person sex="M" xml:id="thompson" role="reporter">
                 <persName>
                     <surname>Thompson</surname>
                 </persName>
             </person>
-            <person sex="M" xml:id="kinghn" type="interviewee" role="photographer" source="https://tinyurl.com/yda4hfuq">
+            <person sex="M" xml:id="kinghn" role="photographer">
                 <persName>
                     <surname>King</surname>
                     <forename>Horatio</forename>
                     <forename>Nelson</forename>
                 </persName>
+                <bibl>https://tinyurl.com/yda4hfuq</bibl>
             </person>
-            <person sex="M" xml:id="blackshag" type="ghost">
+            <person sex="M" xml:id="blackshag" role="ghost">
                 <persName>Black Shag</persName>
             </person>
-            <person sex="M" xml:id="schweim" type="ghost">
+            <person sex="M" xml:id="schweim" role="ghost">
                 <persName>Schweim</persName>
             </person>
-            <person sex="F" xml:id="ccrowe" type="author" source="https://www.kent.ac.uk/library/specialcollections/other/catherine-crowe/index.html#">
+            <person sex="F" xml:id="ccrowe" role="author">
                 <persName>
                     <surname>Crowe</surname>
                     <forename>Catherine</forename>
                 </persName>
+                <bibl>https://www.kent.ac.uk/library/specialcollections/other/catherine-crowe/index.html#</bibl>
             </person>
+            <person sex="F" xml:id="springrice" role="politician">
+                <persName>
+                    <surname>Spring Rice</surname>
+                    <forename>Thomas</forename>
+                </persName>
+                <bibl>http://www.historyofparliamentonline.org/volume/1820-1832/member/rice-thomas-1790-1866</bibl>
+            </person>
+            </listPerson>
         </body>
     </text>
 </TEI>

@@ -3,12 +3,12 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The Penny Satirist Office</title>
+            <title>All the world...</title>
             <author/>
             <editor/>
          </titleStmt>
          <publicationStmt>
-            <publisher/>
+            <publisher>The Penny Satirist</publisher>
             <pubPlace>
                <location>
                   <geo/>
@@ -34,9 +34,9 @@
    <text>
       <body>
          <p>All the world has by this time heard of the London Ghost, who is known in the suburbs,
-            by the name of <q>Spring-heeled Jack,</q> who has been jumping Jim Crow in our neighbourhood
+            by the name of <q><rs ref="springheeledjack">Spring-heeled Jack</rs>,</q> who has been jumping Jim Crow in our neighbourhood
             in rather a novel style. Various conjectures are afloat respecting this solemn, grave
-            looking personage. Some say it is Spring Rice, who has taken this opportunity of
+            looking personage. Some say it is <persName>Spring Rice</persName>, who has taken this opportunity of
             diverting the minds of the people from political scrutiny, and financial investigations.
             Others again say it is Jack Russell, on the secret service of the Home Department;
             others, Lord Brougham, looking for glow-worms to enlighten the people, We cannot say we
@@ -56,11 +56,11 @@
          <p>The ghost is generally about the size of a man, but it takes various forms. Sometimes it
             has the shape of a bear, sometimes it jumps like a kangaroo, and very frequently it is
             dressed like one of the knights of Jerusalem, in shining bring armour, which gleams with
-            a white light, like phosphorus. We saw a man who told us that, being at Ilford one day,
+            a white light, like phosphorus. We saw a man who told us that, being at <placeName ref="#ilford">Ilford</placeName> one day,
             he met a man who told him he had fallen in love with a woman who positively assured him
             that she knew a girl who had fairly lost her old wits by the sight of the ghost, and had
             been provided with a new set of wits so entirely different that it was hard to believe
-            she was the same person. A servant girl in Kensington, we are informed, has been so
+            she was the same person. A servant girl in <placeName ref="#kensington">Kensington</placeName>, we are informed, has been so
             powerfully affected that her person has swelled so enormously that her mistress has
             dismissed her as unfit for houshold work. A gentleman in Hammersmith has horns growing
             on his head, which are generally supposed to be produced by one of Springheeled Jack's
@@ -71,9 +71,9 @@
             shivering sensation which he felt himself when he came up amongst us.</p>
          <p>We have been privately informed that there are Thugs in England; and several in Ireland;
             and that the Thugs in Irelande have joined the Trades' Associations, and are privately
-            proselytizing the sons of Erin to the worship of Kalee. This report, which is believed
+            proselytizing the sons of Erin to the worship of Kalee. <rs ref="springheeledjack">This report, which is believed
             in certain circles, has probably given rise to the rumour, which we lately heard
-            repeated by a respectable gentleman, that Springheeled Jack was a Thug. It is well known
+            repeated by a respectable gentleman, that Springheeled Jack was a Thug.</rs> It is well known
             that the Thugs pride themselves in killing without shedding blood. The Irish do not
             understand this doctrine. It seems so unnatural. The Thugs have, therefore, experienced
             considerable difficulty in the Green Isle in propagating their principles. In this

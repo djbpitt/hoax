@@ -33,17 +33,17 @@
    </teiHeader>
    <text>
       <body>
-         <p>Public Office, <placeName>Bow-street</placeName>.</p>
+         <p>Public Office, <placeName ref="none">Bow-street</placeName>.</p>
          <p>Yesterday George Jones, of Lieut.-Col. Taylor’s Company of Coldstream Guards, whose
             declaration respecting the Park Ghost we yesterday published, was brought before Sir
             Richard Ford, to be interrogated respecting the sight he was supposed to have seen.
             Previous to his examination, Mr. Stafford, the Chief Clerk, endeavoured to find out
             whether his imagination had received any impressions from reading any dismal story, or
             if he had; at the time the phantom appeared to him, suffered the story of the
-            Hammersmith Ghost to dwell on his mind, in order, if possible, to ascertain if he had
+            <rs ref="hammersmithghost">Hammersmith Ghost</rs> to dwell on his mind, in order, if possible, to ascertain if he had
             been misled by his fancies. To these questions he answered in the negative. On being
             asked respecting the strange object he had seen, he solemnly declared, that he was ready
-            at any time to make oatyh to what he had stated, and that he firmly believed he had seen
+            at any time to make oath to what he had stated, and that he firmly believed he had seen
             a ghost. He detailed every thing in Court as near as possible to what we yesterday
             inserted under his own signature.</p>
       </body>

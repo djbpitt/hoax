@@ -21,42 +21,92 @@
                     <location>
                         <geo>51.5073219 -0.1276474</geo>
                     </location>
-                   <place xml:id="hampstead" type="neighborhood">
-                       <placeName>Hampstead</placeName>
-                       <location>
-                           <geo>51.5542879 -0.1740747</geo>
-                       </location>
-                   </place>
-                   <place xml:id="ilford" type="neighborhood">
-                       <placeName>Ilford</placeName>
-                       <location>
-                           <geo>51.5582734s 0.0711669</geo>
-                       </location>
-                   </place> 
-                   <place xml:id="kensington" type="neighborhood">
-                       <placeName>Kensington</placeName>
-                       <location>
-                           <geo>51.4989948 -0.1991229</geo>
-                       </location>
-                   </place>
-                    <place xml:id="kew" type="suburb">
+                    <place xml:id="mansionhouse" type="building">
+                        <placeName>The Lord Mayor's Mansion House</placeName>
+                        <location>
+                            <geo> 51.513027 -0.089498 </geo>
+                        </location>
+                    </place>
+                    <place xml:id="ealing" type="neighborhood">
+                        <placeName>Hampstead</placeName>
+                        <location>
+                            <geo>51.5126553 -0.3051952</geo>
+                        </location>
+                    </place>
+                    <place xml:id="hampstead" type="neighborhood">
+                        <placeName>Hampstead</placeName>
+                        <location>
+                            <geo>51.5542879 -0.1740747</geo>
+                        </location>
+                    </place>
+                    <place xml:id="ilford" type="neighborhood">
+                        <placeName>Ilford</placeName>
+                        <location>
+                            <geo>51.5582734 0.0711669</geo>
+                        </location>
+                    </place>
+                    <place xml:id="kensington" type="neighborhood">
+                        <placeName>Kensington</placeName>
+                        <location>
+                            <geo>51.4989948 -0.1991229</geo>
+                        </location>
+                    </place>
+                    <place xml:id="peckham" type="neighborhood">
+                        <placeName>Peckham</placeName>
+                        <location>
+                            <geo>51.4734122 -0.0699321</geo>
+                        </location>
+                    </place>
+                    <place xml:id="acton" type="neighborhood">
+                        <placeName>Acton</placeName>
+                        <location>
+                            <geo>51.5081402 -0.2732607</geo>
+                        </location>
+                    </place>
+                    <place xml:id="fulham" type="neighborhood">
+                        <placeName>Fulham</placeName>
+                        <location>
+                            <geo>51.4744221 -0.2060772</geo>
+                        </location>
+                        <place xml:id="north-end" type="street">
+                            <placeName>North-end</placeName>
+                            <location>
+                                <geo>51.487952 -0.203917</geo>
+                            </location>
+                        </place>
+                    </place>
+                    <place xml:id="chiswick-lane" type="street">
+                        <placeName>Chiswick-lane</placeName>
+                        <location>
+                            <geo>51.4886 -0.24994</geo>
+                        </location>
+                    </place>
+                    </place>
+                    <place xml:id="kew" type="neighborhood">
                         <placeName>Kew</placeName>
                         <location>
                             <geo>51.4806629 -0.2919292</geo>
                         </location>
                     </place>
-                    <place xml:id="turnhamgreen" type="suburb">
+                    <place xml:id="turnhamgreen" type="neighborhood">
                         <placeName>Turnham Green</placeName>
                         <location>
                             <geo>51.49207 -0.26437</geo>
                         </location>
                     </place>
-                    <place xml:id="hammersmith" type="suburb">
-                       
+                    <place xml:id="hammersmith" type="neighborhood">
+
                         <placeName>Hammersmith</placeName>
                         <location>
                             <geo>51.4920377 -0.2236401</geo>
                         </location>
+                        <place xml:id="webbslane" type="street">
+                            <placeName>Webb's Lane</placeName>
+                            <location>
+                                <geo>51.492905 -0.232288</geo>
+                            </location>
+                            <!-- Big thanks to https://www.british-genealogy.com/threads/68352-Help-Locating-Webbs-Lane-Hammersmith -->
+                        </place>
                         <place xml:id="brandenburghhouse" type="landmark">
                             <placeName>Brandenburgh House</placeName>
                             <placeName>Margrave of Anspach's</placeName>
@@ -77,10 +127,12 @@
                             </location>
                             <place xml:id="angelpub" type="pub">
                                 <placeName>Angel Public House</placeName>
-                                <location><geo>51.492368, -0.228302</geo></location>
+                                <location>
+                                    <geo>51.492368, -0.228302</geo>
+                                </location>
                             </place>
                         </place>
-                        
+
                         <place xml:id="blacklionlane-fields">
                             <placeName>the field adjacent Black-lion Lane</placeName>
                             <location>
@@ -93,12 +145,12 @@
                                 <geo>51.49214 -0.24247</geo>
                             </location>
                             <place xml:id="blacklionpub">
-                            <placeName>Black Lion Pub</placeName>
-                            <location>
-                                <geo>51.490229 -0.241846</geo>
-                            </location>
-                        </place>
-                            
+                                <placeName>Black Lion Pub</placeName>
+                                <location>
+                                    <geo>51.490229 -0.241846</geo>
+                                </location>
+                            </place>
+
                             <place xml:id="beaverlanecross" type="alley">
                                 <placeName>alley between Beaver Lane and Black-lion Lane</placeName>
                                 <location>
@@ -112,9 +164,27 @@
                                 <geo>51.493408 -0.243504</geo>
                             </location>
                         </place>
+                    <place xml:id="fetter-lane" type="street">
+                        <placeName>Fetter-lane</placeName>
+                        <location>
+                            <geo>51.51523 -0.10949</geo>
+                        </location>
                     </place>
+                    <place xml:id="stdunstans" type="landmark">
+                        <placeName>St. Dunstan's</placeName>
+                        <location>
+                            <geo>51.51424 -0.11017</geo>
+                        </location>
+                    </place>    
+   
                     <place xml:id="Westminster" type="neighborhood">
                         <placeName>Westminster</placeName>
+                        <place xml:id="whitehall" type="neighborhood">
+                            <placeName>Whitehall</placeName>
+                            <location>
+                                <geo>51.5023278 -0.1260826</geo>
+                            </location>
+                        </place>
                         <place xml:id="stjamespark" type="park">
                             <placeName>St. James's Park</placeName>
                             <location>
@@ -156,16 +226,17 @@
                     <placeName rend="the United States">United States of America</placeName>
                 </place>
                 <place xml:id="r26seymour" type="residence">
-                    <placeName>Stone/Hayden Residence<!-- questionable, difficult to verify who actually lived there --></placeName>
+                    <placeName>Stone/Hayden
+                        Residence<!-- questionable, difficult to verify who actually lived there --></placeName>
                     <location>
                         <geo>51.5151 -0.1562</geo>
                         <address>
                             <addrLine>Residence</addrLine>
                             <addrLine>Twenty-six, Upper Seymour Street</addrLine>
                             <addrLine>Portman Square, London</addrLine>
-                            
+
                         </address>
-                        
+
                     </location>
                 </place>
                 <place xml:id="france">
@@ -178,7 +249,7 @@
                             <addrLine>Cock Lane</addrLine>
                             <addrLine>West Smithfield, London</addrLine>
                         </address>
-                        
+
                     </location>
                 </place>
                 <place xml:id="stsepulchre" type="church">
@@ -202,7 +273,7 @@
                 </place>
                 <listPlace xml:id="newyork" type="state">
                     <place xml:id="auburn" type="college">
-                    <placeName>Auburn</placeName>
+                        <placeName>Auburn</placeName>
                         <location>
                             <geo>42.93173 -76.56605</geo>
                         </location>
@@ -233,12 +304,12 @@
                         <geo>52.06423 -0.82979</geo>
                     </location>
                 </place>
-            <place xml:id="londonbridge" type="bridge">
-                <placeName>London Bridge</placeName>
-                <location>
-                    <geo>51.50821 -0.08763</geo>
-                </location>
-            </place>
+                <place xml:id="londonbridge" type="bridge">
+                    <placeName>London Bridge</placeName>
+                    <location>
+                        <geo>51.50821 -0.08763</geo>
+                    </location>
+                </place>
                 <place xml:id="gutskow" type="town">
                     <placeName>Gützkow</placeName>
                     <location>
@@ -253,15 +324,21 @@
                 </place>
                 <place xml:id="usedom" type="town">
                     <placeName>Usedom</placeName>
-                    <location><geo>53.87537 13.92394</geo></location>
+                    <location>
+                        <geo>53.87537 13.92394</geo>
+                    </location>
                 </place>
                 <place xml:id="strellin" type="town">
                     <placeName>Strellin</placeName>
-                    <location><geo>53.98385 13.49001</geo></location>
+                    <location>
+                        <geo>53.98385 13.49001</geo>
+                    </location>
                 </place>
                 <place xml:id="damm" type="town">
                     <placeName>Dammbecke</placeName>
-                    <location><geo>53.5512 14.12396</geo></location>
+                    <location>
+                        <geo>53.5512 14.12396</geo>
+                    </location>
                 </place>
                 <place xml:id="pentonville" type="neighborhood">
                     <placeName>Pentonville</placeName>
@@ -284,17 +361,18 @@
                         <geo>51.519380 -0.108121</geo>
                     </location>
                     <place xml:id="hattonpol">
-                    <placeName>Hatton Garden Police Station</placeName>
-                    <location>
-                        <geo>51.5180277 -0.1077023</geo>
-                    </location>
-                </place></place>
+                        <placeName>Hatton Garden Police Station</placeName>
+                        <location>
+                            <geo>51.5180277 -0.1077023</geo>
+                        </location>
+                    </place>
+                </place>
                 <place xml:id="WCHouse" type="pub">
                     <settlement>Notting Hill</settlement>
                     <placeName>White Conduit House</placeName>
                     <location>
                         <geo>51.5343086 -0.1112730</geo>
-                        
+
                     </location>
                 </place>
                 <place xml:id="CTLane" type="street">
@@ -318,13 +396,13 @@
                         <settlement>Haggerston</settlement>
                         <geo>51.5320940 -0.0707674</geo>
                     </location>
-                
-                <place xml:id="haggerstonechurch" type="church">
-                    <placeName>Haggerstone Church Yard, St Marys</placeName>
-                    <location>
-                        <geo>51.53427 -0.07101</geo>
-                    </location>
-                </place>
+
+                    <place xml:id="haggerstonechurch" type="church">
+                        <placeName>Haggerstone Church Yard, St Marys</placeName>
+                        <location>
+                            <geo>51.53427 -0.07101</geo>
+                        </location>
+                    </place>
                 </place>
                 <place xml:id="robertstreet" type="station">
                     <placeName>Station-house at Robert Street</placeName>
@@ -343,7 +421,7 @@
                         <location>
                             <geo>53.7429064 -0.3513376</geo>
                         </location>
-                        
+
                     </place>
                     <place xml:id="wellingtonln" type="haunted_house">
                         <placeName>Wellington Lane</placeName>
@@ -352,18 +430,18 @@
                         </location>
                     </place>
                 </place>
-              <place xml:id="cardross" type="neighborhood">
-                  <placeName>Cardross</placeName>
-                  <location>
-                      <settlement>Dumbartonshire</settlement>
-                      <geo>55.9628546 -4.6486472</geo>
-                  </location>
-                  <place xml:id="drumhead" type="haunted_house">
-                   <placeName>Drumhead</placeName>
-                   <location>
-                       <geo>55.97713888888889 -4.664861111111112</geo>
-                   </location>
-               </place>
+                <place xml:id="cardross" type="neighborhood">
+                    <placeName>Cardross</placeName>
+                    <location>
+                        <settlement>Dumbartonshire</settlement>
+                        <geo>55.9628546 -4.6486472</geo>
+                    </location>
+                    <place xml:id="drumhead" type="haunted_house">
+                        <placeName>Drumhead</placeName>
+                        <location>
+                            <geo>55.97713888888889 -4.664861111111112</geo>
+                        </location>
+                    </place>
                 </place>
                 <place xml:id="sale" type="town">
                     <placeName>Sale</placeName>
@@ -390,7 +468,7 @@
                     </location>
                 </place>
             </listPlace>
-            
+
         </body>
     </text>
 </TEI>

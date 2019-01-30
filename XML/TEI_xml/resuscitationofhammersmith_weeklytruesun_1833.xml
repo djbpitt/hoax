@@ -8,7 +8,7 @@
             <editor/>
          </titleStmt>
          <publicationStmt>
-            <publisher/>
+            <publisher>Weekly True Sun</publisher>
             <pubPlace>
                <location>
                   <geo/>
@@ -17,7 +17,7 @@
             <date when="1833-12-15"/>
          </publicationStmt>
          <sourceDesc>
-            <bibl/>
+            <bibl>"Resuscitation of the Hammersmith Ghost." Weekly True Sun, 15 Dec. 1833, p. 123. Nineteenth Century Collections Online, http://tinyurl.galegroup.com/tinyurl/8wMqL7. Accessed 30 Jan. 2019.</bibl>
          </sourceDesc>
 
       </fileDesc>
@@ -35,27 +35,27 @@
       <body>
          <p>It is in the recollection of most of our readers that about eight years since much
             excitement was created by a report that a ghost had appeared to a number of persons in
-            the neighbourhood of Hammersmith, Fulham, &amp;c., several of whom, more particularly
+            the neighbourhood of <placeName ref="#hammersmith">Hammersmith</placeName>, <placeName ref="#fulham">Fulham</placeName>, <placeName ref="amb">&amp;c.</placeName>, several of whom, more particularly
             females, against whom he appeared to have a great animosity, had been much frightened
             and ill-treated by him. After continuing his freaks for some time, he became so
             troublesome that the parochial authorities adopted measures for his apprehension, and
             after watching for him for some nights he was taken in one of the lanes attired in full
             ghostly costume, and was sent by the magistrates to the House of Correction to undergo a
             little wholesome discipline for his pranks. Since that time nothing has been heard of
-            his ghostship until about six weeks ago, when he re-appeared in a lane at North-end, and
-            it is reported that he has been seen subsequently in Webb’s-lane, Hammersmith, and
-            Acton; but the principal scene of his adventures is stated to be the mad hats in
-            Chiswick-lane, and that the servant of a Mr. Scott was attacked by him there, his
+            his ghostship until about six weeks ago, when he re-appeared in <placeName ref="#north-end">a lane at North-end</placeName>, and
+            it is reported that he has been seen subsequently in <placeName ref="#webbslane">Webb’s-lane, Hammersmith</placeName>, and
+            <placeName ref="#acton">Acton</placeName>; but the principal scene of his adventures is stated to be the mad hats in
+            <placeName ref="#chiswick-lane">Chiswick-lane</placeName>, and that the servant of a Mr. Scott was attacked by him there, his
             assaults, as before, being directed against females. On a Saturday night last it was
-            currently reported that he had been taken by the police at Acton, attired in a large
+            currently reported that he had been taken by the police at <placeName ref="#acton">Acton</placeName>, attired in a large
             white dress, with long nails or claws, by which he was enabled to scale walls and hedges
             for the purpose of making himself scarce, when requisite, and that when brought to the
             station-house he proved to be a celebrated Captain of sporting notoreity. Several of the
             inhabitants attended the Hammersmith, &amp;c., Petty Sessions, on Monday, in the hope of
             obtaining an audience of the spiritual <emph>incognito</emph>, when it was found that the statement
             of his apprehension was premature. Another report states him to be dressed in armour,
-            and that he has laid a wager that he will strip the clothes off a certain nuber of
-            females in a given time, and that he has now only one more to strip to win the bet. it
+            and that he has laid a wager that he will strip the clothes off a certain number of
+            females in a given time, and that he has now only one more to strip to win the bet. It
             is to be hoped that the police will put a stop to the pranks of his ghostship previous
             to his completing his task, that he may receive a proper reward for his exertions.</p>
       </body>

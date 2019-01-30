@@ -33,13 +33,13 @@
    </teiHeader>
    <text>
       <body>
-         <p>A few nights since the bellowing wind with a hollow roar marched up Fetter-lane,
+         <p>A few nights since the bellowing wind with a hollow roar marched up <placeName ref="#fetter-lane">Fetter-lane</placeName>,
             convulsing the casements of each second floor! Not a light was seen, except the gas; the
             stars were fast asleep and covered over with the clothes of heaven! the dark thick fog
             had put out the moon, and quite obscured that varied nothing some call sky! St. Paul’s
             was snoring twelve, the helpless guardians tried locks, bolts, and bars, yawning the
             hour as they had it from their tall fat friend, and Somnus had just walked his drowsy
-            cap over the evil eyes of <q>a labourer in St. Dunstan’s,</q> when lo! a sprite appeared! the
+            cap over the evil eyes of <q>a labourer in <placeName ref="#stdunstans">St. Dunstan’s</placeName>,</q> when lo! a sprite appeared! the
             ghost of Tommy Paine! <q>Spirit of radicalism, arise!</q> said Grimmy. <q>Avaunt!</q> cried
             Twopenny Trash, seizing a gridiron, <q>quit my sight! thy bones are marrowless, for I had
             the boiling of ’em and ought to know, but,</q> added he, recollecting his sacrilege in

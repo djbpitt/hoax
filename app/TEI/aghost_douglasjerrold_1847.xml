@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>A Ghost!</title>
+                <author/>
+                <editor/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher rendition="original">Sunderland Herald</publisher>
+                <publisher rendition="reprint">Douglas Jerrold's Weekly Newspaper</publisher>
+                <pubPlace>
+                    <placeName type="original">Sunderland</placeName>
+                    <location>
+                        <geo/>
+                    </location>
+                </pubPlace>
+                <pubPlace>
+                    <placeName type="reprint">London</placeName>
+                    <location>
+                        <geo/>
+                    </location>
+                </pubPlace>
+                
+                <date when="1847-09-04"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>"A Ghost!" Douglas Jerrold's Weekly Newspaper, 4 Sept. 1847, p. 1119. Nineteenth Century Collections Online, tinyurl.galegroup.com/tinyurl/54Rtk8. Accessed 25 July 2017.</bibl>
+                
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>This document is part of a larger digital collection of stories of ghost hoaxes from
+                    the 18th and 19th century British newspapers and periodicals. The project explores
+                    the beginnings of mass print media in metropolitan areas at a time when technology
+                    and education made reading for pleasure common and inexpensive.</p>
+            </projectDesc>
+            
+        </encodingDesc>
+    </teiHeader>
+    
+    <text>
+        
+        <body>
+            <p>The other evening a young lady had occasion to go homewards down one of the lanes
+            leading from the Building-hill. The night was moderately dark, and misses head was full
+            of <rs ref="ghost">witches, ghosts, worrikows, bogles, and long-beaked indescribables</rs>. At a particular
+            point, <rs ref="ghost">she noted a veritable ghost</rs>, and set up such a scream as awakened all the echoes
+            in the neighbourhood, and very deaf ones they are, and fainted away.—Several parties,
+            deeming murder had been committed, ran to the spot, and found miss prostrate, and the
+            cause of her fright —a white ass, mumbling its scanty supper, drawn from the hedge. She
+            is not yet convinced that she did not see a spirit, and has been very ill since. If
+            young ladies fainted away at the sight of every ass frequenting these lanes, by day as
+            well as by night, burnt feathers would be at a premium.—<title type="publisher">Sunderland Herald</title>.</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,116 @@
+@font-face {
+    font-family: sancreek;
+    src: url(Sancreek-Regular.ttf);}
+
+body{
+    background-image: url("paper2.jpg");
+    background-attachment: fixed;
+    background-size: 90%; 
+    background-position: center; 
+    background-color: grey;
+    font-family: Helvetica, sans-serif;
+    color: #284042;
+    
+}
+
+a {
+  color: #284042;
+  text-decoration:none;
+}
+
+/* visited link */
+a:visited {
+  color: #284042;
+  text-decoration: underline;
+}
+
+/* mouse over link */
+a:hover {
+  text-decoration: underline;
+}
+
+section{
+    background-color: #F4EFD0;
+    padding: 2em;
+    height: auto;
+    display: block;
+    margin-left: 15%;
+    margin-right: 15%;
+    box-sizing: border-box;
+    margin: 5%;
+    overflow: auto;
+}
+.body{
+    background-color: #E1D3B0;
+    padding: 20px;
+    height: auto;
+    display: block;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: 2%;
+    font-size: 16px;
+    overflow: auto;
+}
+
+h1{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: sancreek;
+    color: #284042;
+    font-size: 3em;
+    text-align: center;
+    
+}
+h2 {
+    font-family: sancreek;
+    color: #284042;
+    font-size: 2em;
+}
+    
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+    height:50%;
+    width:50%;
+}
+figure {
+    float: center;
+  
+}
+table {
+    border-collapse: collapse;
+    width: auto;
+    margin: 0 auto;
+}
+
+th, td {
+    text-align: left;
+    padding: 1em;
+}
+#nav {
+    text-align: center;
+    width: auto;
+	float: left;
+	margin-right:30%;
+	margin-left: 30%;
+	background-color: #F4EFD0;
+	}
+ul {
+    list-style-type: none;
+}	
+#nav li {
+	float: right; }
+#nav li a {
+	display: block;
+	padding: 1em;
+	text-decoration: none;
+	font-weight: bold;
+	color: #284042; }
+#nav li a:hover {
+	color: #284042;
+	background-color: #aed4e6; }

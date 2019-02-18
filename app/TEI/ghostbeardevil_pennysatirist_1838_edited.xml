@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A ghost, a bear, or a devil</title>
+            <author/>
+            <editor/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>John Bull</publisher>
+            <pubPlace>
+               <location>
+                  <geo/>
+               </location>
+            </pubPlace>
+            <date when="1838-01-20"/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This document is part of a larger digital collection of stories of ghost hoaxes from
+               the 18th and 19th century London newspapers and periodicals. The project explores the
+               beginnings of mass print media in a metropolitan area at a time when technology and
+               education made reading common and inexpensive.</p>
+         </projectDesc>
+
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>A ghost, a bear, or a devil—for it seems not to be settled, which—has been going the
+            round of <placeName ref="amb">the suburbs of the metropolis</placeName>, frightening nursery maids into fits, and ladies
+            into hysterics, and as far as its antics have yet been played, with perfect impunity.
+            <placeName ref="#kew">Kew</placeName> is one of the places named as the scene of its pranks, probably from the reputation
+            of one of its late residents. Had not King Ernest gone to <placeName ref="irr">Hanover</placeName>, never, we trust, to
+            come back, we could easily have accounted for the demon's appearance in that quarter.
+            —[Satirist].</p>
+      </body>
+   </text>
+</TEI>

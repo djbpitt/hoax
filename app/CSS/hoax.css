@@ -73,15 +73,17 @@ h2 {
     display: flex;
     flex-direction: row;
 }
+.image{
+    width: 30%;
+    display: flex;
+}
 
 img{
-    height:50%;
-    width:50%;
-}
-figure {
-    float: center;
+    height:40%;
+    width:40%;
+    margin: auto;
+}    
   
-}
 table {
     border-collapse: collapse;
     width: auto;

@@ -1,35 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         <titleStmt>
-            <title>The New Hammersmith Ghost</title>
-            <author/>
-            <editor/>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>Bell’s Life in London and Sporting Chronicle</publisher>
-            <pubPlace>
-               <location>
-                  <geo/>
-               </location>
-            </pubPlace>
-            <date when="1825-01-30"/>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl>"The New Hammersmith Ghost." Bell’s Life in London and Sporting Chronicle, 30 Jan. 1825.  19th Century UK Periodicals, http://tinyurl.com/yahgex6w.  Accessed 31 July 2017.</bibl>
-         </sourceDesc>
+         <titleStmt><title>The New Hammersmith Ghost</title><respStmt><resp>Originally published by</resp><name>Bell’s Life in London and Sporting Chronicle</name></respStmt><respStmt><resp>Transcribed and encoded by</resp><name>Gabi Keane</name></respStmt></titleStmt>
+         <publicationStmt><publisher>Bell’s Life in London and Sporting Chronicle</publisher><date when="1825-01-30"/></publicationStmt><seriesStmt><title>Ghost hoaxes in 19th-century British news media</title></seriesStmt>
+         <sourceDesc><p>All texts in this collection were sourced from British periodical and newspaper archives, transcribed,and encoded. The citation below was provided by the archive and appears exactly as given.</p><p><bibl>"The New Hammersmith Ghost." Bell’s Life in London and Sporting Chronicle, 30 Jan. 1825.  19th Century UK Periodicals, http://tinyurl.com/yahgex6w.  Accessed 31 July 2017.</bibl></p></sourceDesc>
 
       </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>This document is part of a larger digital collection of stories of ghost hoaxes from
-               the 18th and 19th century London newspapers and periodicals. The project explores the
-               beginnings of mass print media in a metropolitan area at a time when technology and
-               education made reading common and inexpensive.</p>
-         </projectDesc>
-
-      </encodingDesc>
+      <encodingDesc><projectDesc><p>This document is part of a larger digital collection of stories of ghost hoaxes from the
+                    18th and 19th century London newspapers and periodicals. The project explores the
+                    beginnings of mass print media in a metropolitan area at a time when technology and
+                    education made reading increasingly common and inexpensive.</p><p>The corpus holds 36 individual documents, which reflect a diverse mix of reporting on various
+                    hauntings in and around London between 1804 and 1889. The PDF and JPEGs from online databases were
+                    transcribed using ABBYFineReader OCR, then corrected and occasionally manually transcribed if document quality
+                    necessitated it. After normalization in plain text, all documents were upconverted to TEI XML.</p></projectDesc><editorialDecl><normalization><p>Earlier texts have had some spelling normalization due to errors in OCR. Typographic em dashes are longer than modern em dashes, so all dashes have been normalized to modern em dash length.</p></normalization><quotation><p>All extraneous white space used by printers to avoid overlapping with letters has been removed. All quotes are simply tagged with the q tag.</p></quotation></editorialDecl></encodingDesc>
    </teiHeader>
    <text>
       <body>
@@ -39,8 +22,7 @@
             haunts; for the hint was taken, and many persons, attired like women, were on the watch.
             A purse of twenty pounds is stated to have been subscribed for any person who shall
             bring in the ghostly monster dead or alive, of course. On one occasion, the ghost
-            knocked at an old woman’s cottage, <placeName ref="#starchgreen amb" 
-               >near Starch green, leading to Acton</placeName>. She opened the
+            knocked at an old woman’s cottage, <placeName ref="#starchgreen amb">near Starch green, leading to Acton</placeName>. She opened the
             door, when the white-sheeted gentleman presented himself in all the mock horrors of his
             amiable amusement. She fainted away, in consequence, and has since been very ill. On
             another night, he attacked an old woman, passing up <placeName ref="#angellane">Angel-lane</placeName>, where the servant of the

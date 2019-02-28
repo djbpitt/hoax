@@ -32,7 +32,7 @@
     <xsl:template match="sourceDesc">
         <sourceDesc>
         <p>All texts in this collection were sourced from British periodical and newspaper archives, transcribed,and encoded. The citation below was provided by the archive and appears exactly as given.</p>
-        <xsl:copy-of select="bibl"></xsl:copy-of>
+        <p><xsl:copy-of select="bibl"/></p>
         </sourceDesc>
     </xsl:template>
     <xsl:template match="encodingDesc">

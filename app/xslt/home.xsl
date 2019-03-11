@@ -4,6 +4,7 @@
         <html>
             <head>
                 <title>Hoax</title>
+                <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"/>
                 <link rel="stylesheet" type="text/css" href="CSS/hoax.css"/>
             </head>
             <body>
@@ -14,21 +15,25 @@
                         </h1>
             
         </header>
-            <nav id="nav">
-           <ul>
-                <li>
-                            <a href="http://localhost:8080/exist/apps/hoax/home.xql">Home</a>
+           <nav class="navbar navbar-expand-lg navbar-light">
+           <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                            <a class="nav-link" href="http://localhost:8080/exist/apps/hoax/home.xql">Home</a>
                         </li> 
-                <li>
-                            <a href="http://localhost:8080/exist/apps/hoax/titles.xql">Collections</a>
+                <li class="nav-item">
+                            <a class="nav-link" href="http://localhost:8080/exist/apps/hoax/titles.xql">Collections</a>
                         </li>
-                <li>
-                            <a href="http://localhost:8080/exist/apps/hoax/maps.xql">Maps</a>
+                <li class="nav-item">
+                            <a class="nav-link" href="http://localhost:8080/exist/apps/hoax/maps.xql">Maps</a>
                         </li> 
-                <li>
-                            <a href="http://localhost:8080/exist/apps/hoax/crit.xql">Crit</a>
+                <li class="nav-item">
+                            <a class="nav-link" href="http://localhost:8080/exist/apps/hoax/crit.xql">Crit</a>
                         </li> 
-            </ul>    
+            </ul>  
+            <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="search term" aria-label="Search"/>
+      <button class="btn btn-outline-secondary my-2 my-sm-0" type="submit">Search</button>
+    </form>
         </nav>
        </section> 
     

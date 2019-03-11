@@ -10,7 +10,6 @@ body{
     background-color: grey;
     font-family: Helvetica, sans-serif;
     color: #284042;
-    
 }
 
 a {
@@ -31,32 +30,15 @@ a:hover {
 
 section{
     background-color: #F4EFD0;
-    padding: 2em;
-    height: auto;
-    display: block;
-    margin-left: 15%;
-    margin-right: 15%;
-    box-sizing: border-box;
-    margin: 5%;
-    overflow: auto;
+
 }
 .body{
     background-color: #E1D3B0;
-    padding: 20px;
     height: auto;
-    display: block;
-    margin-left: 10%;
-    margin-right: 10%;
-    padding: 20px;
-    box-sizing: border-box;
-    margin: 2%;
-    font-size: 16px;
-    overflow: auto;
-}
 
 h1{
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
     font-family: sancreek;
     color: #284042;
     font-size: 3em;
@@ -68,32 +50,13 @@ h2 {
     color: #284042;
     font-size: 2em;
 }
-    
-.container{
-    display: flex;
-    flex-direction: row;
-}
-.image{
-    width: 30%;
-    display: flex;
-}
 
 img{
     height:40%;
     width:40%;
     margin: auto;
 }    
-  
-table {
-    border-collapse: collapse;
-    width: auto;
-    margin: 0 auto;
-}
 
-th, td {
-    text-align: left;
-    padding: 1em;
-}
 #nav {
     text-align: center;
     width: auto;
@@ -105,7 +68,7 @@ th, td {
 ul {
     list-style-type: none;
 }	
-#nav li {
+/*#nav li {
 	float: right; }
 #nav li a {
 	display: block;
@@ -116,3 +79,4 @@ ul {
 #nav li a:hover {
 	color: #284042;
 	background-color: #aed4e6; }
+*/

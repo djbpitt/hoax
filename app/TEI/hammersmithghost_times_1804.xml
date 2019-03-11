@@ -3,37 +3,55 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Hammersmith Ghost</title>
-            <author/>
-            <editor/>
-         </titleStmt>
+                <title>Hammersmith Ghost</title>
+                <respStmt>
+                    <resp>Originally published by</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcribed and encoded by</resp>
+                    <name>Gabi Keane</name>
+                </respStmt>
+            </titleStmt>
          <publicationStmt>
-            <publisher/>
-            <pubPlace>
-               <location>
-                  <geo/>
-               </location>
-            </pubPlace>
-            <date when="1804-01-06"/>
-         </publicationStmt>
+                <publisher/>
+                <date when="1804-01-06"/>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Ghost hoaxes in 19th-century British news media</title>
+            </seriesStmt>
          <sourceDesc>
-            <bibl>"Hammersmith-Ghost." Times [London, England] 6 Jan. 1804: 3. The Times Digital Archive. Web. 21 Oct. 2018.</bibl>
-         </sourceDesc>
+                <p>All texts in this collection were sourced from British periodical and newspaper archives, transcribed,and encoded. The citation below was provided by the archive and appears exactly as given.</p>
+                <p>
+                    <bibl>"Hammersmith-Ghost." Times [London, England] 6 Jan. 1804: 3. The Times Digital Archive. Web. 21 Oct. 2018.</bibl>
+                </p>
+            </sourceDesc>
 
       </fileDesc>
       <encodingDesc>
-         <projectDesc>
-            <p>This document is part of a larger digital collection of stories of ghost hoaxes from
-               the 18th and 19th century London newspapers and periodicals. The project explores the
-               beginnings of mass print media in a metropolitan area at a time when technology and
-               education made reading common and inexpensive.</p>
-         </projectDesc>
-
-      </encodingDesc>
+            <projectDesc>
+                <p>This document is part of a larger digital collection of stories of ghost hoaxes from the
+                    18th and 19th century London newspapers and periodicals. The project explores the
+                    beginnings of mass print media in a metropolitan area at a time when technology and
+                    education made reading increasingly common and inexpensive.</p>
+                <p>The corpus holds 36 individual documents, which reflect a diverse mix of reporting on various
+                    hauntings in and around London between 1804 and 1889. The PDF and JPEGs from online databases were
+                    transcribed using ABBYFineReader OCR, then corrected and occasionally manually transcribed if document quality
+                    necessitated it. After normalization in plain text, all documents were upconverted to TEI XML.</p>
+            </projectDesc>
+            <editorialDecl>
+                <normalization>
+                    <p>Earlier texts have had some spelling normalization due to errors in OCR. Typographic em dashes are longer than modern em dashes, so all dashes have been normalized to modern em dash length.</p>
+                </normalization>
+                <quotation>
+                    <p>All extraneous white space used by printers to avoid overlapping with letters has been removed. All quotes are simply tagged with the q tag.</p>
+                </quotation>
+            </editorialDecl>
+        </encodingDesc>
    </teiHeader>
    <text>
       <body>
-         <p>The Christmas tricks of <rs ref="ghost">this goblin</rs> have terminated in two melancholy accidents.</p>
+         <p>﻿The Christmas tricks of <rs ref="ghost">this goblin</rs> have terminated in two melancholy accidents.</p>
          <p>Yesterday morning at 11 o’clock, a Coroner’s Inquest was held at the <placeName ref="#blacklionpub">Black Lion
             public-house, Hammersmith</placeName>, on the body of a young man, named Milward, who had been shot
             on the preceding night, in <placeName ref="#beaverlanecross">Cross-lane</placeName>, <placeName ref="amb">within a few doors of the place</placeName>, by a young man,
@@ -43,7 +61,7 @@
                 </q> against the said
             Smith.</p>
          <p>The circumstances which led to that unhappy catastrophe, and which we have been at some
-            pains to investigate on the spot, are as follow:-</p>
+            pains to investigate on the spot, are as follow:--</p>
          <p>For several nights past, some very silly and thoughtless person had been in the habit of
             walking about <placeName ref="amb">the more lonely vicinities of <placeName ref="#hammersmith">Hammersmith</placeName>
                 </placeName>, attired in a white sheet, to

@@ -3,35 +3,53 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Another Ghost!</title>
-            <author/>
-            <editor/>
-         </titleStmt>
+                <title>Another Ghost!</title>
+                <respStmt>
+                    <resp>Originally published by</resp>
+                    <name>The Times</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcribed and encoded by</resp>
+                    <name>Gabi Keane</name>
+                </respStmt>
+            </titleStmt>
          <publicationStmt>
-            <publisher>The Times</publisher>
-            <pubPlace>
-               <location>
-                  <geo/>
-               </location>
-            </pubPlace>
-            <date when="1804-01-19"/>
-         </publicationStmt>
+                <publisher>The Times</publisher>
+                <date when="1804-01-19"/>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Ghost hoaxes in 19th-century British news media</title>
+            </seriesStmt>
          <sourceDesc>
-            <bibl>ANOTHER GHOST!-A Gentleman of great respectability in the service of the East
+                <p>All texts in this collection were sourced from British periodical and newspaper archives, transcribed,and encoded. The citation below was provided by the archive and appears exactly as given.</p>
+                <p>
+                    <bibl>ANOTHER GHOST!-A Gentleman of great respectability in the service of the East
                India. The Times (London, England), Thursday, Jan 19, 1804; pg. 3; Issue 5923. (591
                words)</bibl>
-         </sourceDesc>
+                </p>
+            </sourceDesc>
 
       </fileDesc>
       <encodingDesc>
-         <projectDesc>
-            <p>This document is part of a larger digital collection of stories of ghost hoaxes from
-               the 18th and 19th century London newspapers and periodicals. The project explores the
-               beginnings of mass print media in a metropolitan area at a time when technology and
-               education made reading common and inexpensive.</p>
-         </projectDesc>
-
-      </encodingDesc>
+            <projectDesc>
+                <p>This document is part of a larger digital collection of stories of ghost hoaxes from the
+                    18th and 19th century London newspapers and periodicals. The project explores the
+                    beginnings of mass print media in a metropolitan area at a time when technology and
+                    education made reading increasingly common and inexpensive.</p>
+                <p>The corpus holds 36 individual documents, which reflect a diverse mix of reporting on various
+                    hauntings in and around London between 1804 and 1889. The PDF and JPEGs from online databases were
+                    transcribed using ABBYFineReader OCR, then corrected and occasionally manually transcribed if document quality
+                    necessitated it. After normalization in plain text, all documents were upconverted to TEI XML.</p>
+            </projectDesc>
+            <editorialDecl>
+                <normalization>
+                    <p>Earlier texts have had some spelling normalization due to errors in OCR. Typographic em dashes are longer than modern em dashes, so all dashes have been normalized to modern em dash length.</p>
+                </normalization>
+                <quotation>
+                    <p>All extraneous white space used by printers to avoid overlapping with letters has been removed. All quotes are simply tagged with the q tag.</p>
+                </quotation>
+            </editorialDecl>
+        </encodingDesc>
    </teiHeader>
    <text>
       <body>

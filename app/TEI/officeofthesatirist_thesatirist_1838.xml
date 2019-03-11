@@ -3,33 +3,51 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>All the world...</title>
-            <author/>
-            <editor/>
-         </titleStmt>
+                <title>All the world...</title>
+                <respStmt>
+                    <resp>Originally published by</resp>
+                    <name>The Penny Satirist</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcribed and encoded by</resp>
+                    <name>Gabi Keane</name>
+                </respStmt>
+            </titleStmt>
          <publicationStmt>
-            <publisher>The Penny Satirist</publisher>
-            <pubPlace>
-               <location>
-                  <geo/>
-               </location>
-            </pubPlace>
-            <date when="1838-01-20"/>
-         </publicationStmt>
+                <publisher>The Penny Satirist</publisher>
+                <date when="1838-01-20"/>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Ghost hoaxes in 19th-century British news media</title>
+            </seriesStmt>
          <sourceDesc>
-            <bibl>"All the world has by this time heard of the London Ghost, who is known in the suburbs, by the name of 'Spring-heeled Jack,' who has been jumping Jim Crow in our neighbourhood in rather a novel style." The Penny Satirist, 20 Jan. 1838, p. 2. 19th Century UK Periodicals, http://tinyurl.galegroup.com/tinyurl/8AFiT1. Accessed 27 Oct. 2018.</bibl>
-         </sourceDesc>
+                <p>All texts in this collection were sourced from British periodical and newspaper archives, transcribed,and encoded. The citation below was provided by the archive and appears exactly as given.</p>
+                <p>
+                    <bibl>"All the world has by this time heard of the London Ghost, who is known in the suburbs, by the name of 'Spring-heeled Jack,' who has been jumping Jim Crow in our neighbourhood in rather a novel style." The Penny Satirist, 20 Jan. 1838, p. 2. 19th Century UK Periodicals, http://tinyurl.galegroup.com/tinyurl/8AFiT1. Accessed 27 Oct. 2018.</bibl>
+                </p>
+            </sourceDesc>
 
       </fileDesc>
       <encodingDesc>
-         <projectDesc>
-            <p>This document is part of a larger digital collection of stories of ghost hoaxes from
-               the 18th and 19th century London newspapers and periodicals. The project explores the
-               beginnings of mass print media in a metropolitan area at a time when technology and
-               education made reading common and inexpensive.</p>
-         </projectDesc>
-
-      </encodingDesc>
+            <projectDesc>
+                <p>This document is part of a larger digital collection of stories of ghost hoaxes from the
+                    18th and 19th century London newspapers and periodicals. The project explores the
+                    beginnings of mass print media in a metropolitan area at a time when technology and
+                    education made reading increasingly common and inexpensive.</p>
+                <p>The corpus holds 36 individual documents, which reflect a diverse mix of reporting on various
+                    hauntings in and around London between 1804 and 1889. The PDF and JPEGs from online databases were
+                    transcribed using ABBYFineReader OCR, then corrected and occasionally manually transcribed if document quality
+                    necessitated it. After normalization in plain text, all documents were upconverted to TEI XML.</p>
+            </projectDesc>
+            <editorialDecl>
+                <normalization>
+                    <p>Earlier texts have had some spelling normalization due to errors in OCR. Typographic em dashes are longer than modern em dashes, so all dashes have been normalized to modern em dash length.</p>
+                </normalization>
+                <quotation>
+                    <p>All extraneous white space used by printers to avoid overlapping with letters has been removed. All quotes are simply tagged with the q tag.</p>
+                </quotation>
+            </editorialDecl>
+        </encodingDesc>
    </teiHeader>
    <text>
       <body>

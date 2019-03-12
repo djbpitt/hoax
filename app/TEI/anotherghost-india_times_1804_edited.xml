@@ -3,73 +3,79 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-                <title>Another Ghost!</title>
-                <respStmt>
-                    <resp>Originally published by</resp>
-                    <name>The Times</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Transcribed and encoded by</resp>
-                    <name>Gabi Keane</name>
-                </respStmt>
-            </titleStmt>
+            <title>Another Ghost!</title>
+            <respStmt>
+               <resp>Originally published by</resp>
+               <name>The Times</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcribed and encoded by</resp>
+               <name>Gabi Keane</name>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
-                <publisher>The Times</publisher>
-                <date when="1804-01-19"/>
-            </publicationStmt>
-            <seriesStmt>
-                <title>Ghost hoaxes in 19th-century British news media</title>
-            </seriesStmt>
+            <publisher>The Times</publisher>
+            <date when="1804-01-19"/>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Ghost hoaxes in 19th-century British news media</title>
+         </seriesStmt>
          <sourceDesc>
-                <p>All texts in this collection were sourced from British periodical and newspaper archives, transcribed,and encoded. The citation below was provided by the archive and appears exactly as given.</p>
-                <p>
+            <p>All texts in this collection were sourced from British periodical and newspaper
+               archives, transcribed,and encoded. The citation below was provided by the archive and
+               appears exactly as given.</p>
+            <p>
                     <bibl>ANOTHER GHOST!-A Gentleman of great respectability in the service of the East
-               India. The Times (London, England), Thursday, Jan 19, 1804; pg. 3; Issue 5923. (591
-               words)</bibl>
+                  India. The Times (London, England), Thursday, Jan 19, 1804; pg. 3; Issue 5923.
+                  (591 words)</bibl>
                 </p>
-            </sourceDesc>
+         </sourceDesc>
 
       </fileDesc>
       <encodingDesc>
-            <projectDesc>
-                <p>This document is part of a larger digital collection of stories of ghost hoaxes from the
-                    18th and 19th century London newspapers and periodicals. The project explores the
-                    beginnings of mass print media in a metropolitan area at a time when technology and
-                    education made reading increasingly common and inexpensive.</p>
-                <p>The corpus holds 36 individual documents, which reflect a diverse mix of reporting on various
-                    hauntings in and around London between 1804 and 1889. The PDF and JPEGs from online databases were
-                    transcribed using ABBYFineReader OCR, then corrected and occasionally manually transcribed if document quality
-                    necessitated it. After normalization in plain text, all documents were upconverted to TEI XML.</p>
-            </projectDesc>
-            <editorialDecl>
-                <normalization>
-                    <p>Earlier texts have had some spelling normalization due to errors in OCR. Typographic em dashes are longer than modern em dashes, so all dashes have been normalized to modern em dash length.</p>
-                </normalization>
-                <quotation>
-                    <p>All extraneous white space used by printers to avoid overlapping with letters has been removed. All quotes are simply tagged with the q tag.</p>
-                </quotation>
-            </editorialDecl>
-        </encodingDesc>
+         <projectDesc>
+            <p>This document is part of a larger digital collection of stories of ghost hoaxes from
+               the 18th and 19th century London newspapers and periodicals. The project explores the
+               beginnings of mass print media in a metropolitan area at a time when technology and
+               education made reading increasingly common and inexpensive.</p>
+            <p>The corpus holds 36 individual documents, which reflect a diverse mix of reporting on
+               various hauntings in and around London between 1804 and 1889. The PDF and JPEGs from
+               online databases were transcribed using ABBYFineReader OCR, then corrected and
+               occasionally manually transcribed if document quality necessitated it. After
+               normalization in plain text, all documents were upconverted to TEI XML.</p>
+         </projectDesc>
+         <editorialDecl>
+            <normalization>
+               <p>Earlier texts have had some spelling normalization due to errors in OCR.
+                  Typographic em dashes are longer than modern em dashes, so all dashes have been
+                  normalized to modern em dash length.</p>
+            </normalization>
+            <quotation>
+               <p>All extraneous white space used by printers to avoid overlapping with letters has
+                  been removed. All quotes are simply tagged with the q tag.</p>
+            </quotation>
+         </editorialDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
          <p>A Gentleman of great repeatability in the service of the East India Company, among other
             ingenious pursuits, applied himself to the study of anatomy. A human skull, which had
             been placed for sometime in his closet, was, during his absence on a summer excursion,
-            observed frequently to move. Like the secret in the <rs>Agreeable Surprise,</rs> this alarming
-            tale of mystery became <emph>secret pro bono publico</emph>. The servants told it to the
-            neighbours, and the skull was attended by a croud of visitors. At length one of them,
-            more bold than <q>his fellows,</q> made a desperate snatch at the head, when the visionary
-            mountain brought forth a mouse, which had actually brought forth a litter of young ones
-            in the <emph>caput mortuum !!!</emph>
+            observed frequently to move. Like the secret in the <rs>Agreeable Surprise,</rs> this
+            alarming tale of mystery became <emph>secret pro bono publico</emph>. The servants told
+            it to the neighbours, and the skull was attended by a croud of visitors. At length one
+            of them, more bold than <q>his fellows,</q> made a desperate snatch at the head, when
+            the visionary mountain brought forth a mouse, which had actually brought forth a litter
+            of young ones in the <emph>caput mortuum !!!</emph>
             </p>
-         <p>Inspite of all the cunning of BONAPARTE, the rapture of his <emph>Sçuvans</emph> in India, proved
-            that the knowing ones were be to taken in!</p>
+         <p>Inspite of all the cunning of BONAPARTE, the rapture of his <emph>Sçuvans</emph> in
+            India, proved that the knowing ones were be to taken in!</p>
          <p>The French, infantry destined for this country, have helmets with steel guards, reaching
             over their shoulders, to ward off the cuts of cavalry. We fancy, with all their
             precaution, they will in the end find themselves <emph>over-reached</emph>.</p>
-         <p>The Newspapers are now become quite silent about <emph>Carlo</emph>. According to the vulgar
-            proverb, <q>they have not one word to throw at a dog.</q>
+         <p>The Newspapers are now become quite silent about <emph>Carlo</emph>. According to the
+            vulgar proverb, <q>they have not one word to throw at a dog.</q>
             </p>
          <p>At this time of the year, all our boarding school masters and mistresses advertise their
             respective seminaries. Among the number of the latter, we notice MRS. CROSS, and a MRS.

@@ -32,13 +32,16 @@ section{
     background-color: #F4EFD0;
 
 }
-.body{
+.textbody{
     background-color: #E1D3B0;
     height: auto;
+    padding: 3%;
+}
 
 h1{
     margin-left: 5%;
     margin-right: 5%;
+    margin-top: 5%;
     font-family: sancreek;
     color: #284042;
     font-size: 3em;

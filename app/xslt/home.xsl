@@ -8,8 +8,8 @@
                 <link rel="stylesheet" type="text/css" href="CSS/hoax.css"/>
             </head>
             <body>
-            <section>    
-                <header class="container">
+            <section class="container">    
+                <header id="head" class="container">
             <h1>
                             <a href="http://localhost:8080/exist/apps/hoax/home.xql">GHOST HOAXES in 19th-C. BRITISH NEWS MEDIA</a>
                         </h1>

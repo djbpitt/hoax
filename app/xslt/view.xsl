@@ -11,8 +11,8 @@
                 <meta charset="UTF-8"/>
             </head>
             <body>
-                <section>        
-                    <header class="container">
+                <section class="container">        
+                    <header>
                         <h1>
                             <a href="http://localhost:8080/exist/apps/hoax/home.xql">GHOST HOAXES in 19th-C. BRITISH NEWS MEDIA</a>
                         </h1>
@@ -38,7 +38,7 @@
                         </form>
                     </nav>
                 </section>
-                <section>
+                <section class="container" id="textbody">
                     <xsl:apply-templates select="//titleStmt"/>
                     <xsl:apply-templates select="//respStmt"/>
                     <xsl:apply-templates select="//body"/>

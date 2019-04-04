@@ -188,13 +188,13 @@
                         <place xml:id="stjamespark" type="park">
                             <placeName>St. James's Park</placeName>
                             <location>
-                                <geo>51.504408 -0.131632</geo>
-                                <geo cert="high">51.501336 -0.129939</geo>
+                                
+                                <geo>51.501336 -0.129939</geo>
                             </location>
                         </place>
                         <place xml:id="cockpit" type="theatre">
                             <placeName>The Royal Cockpit</placeName>
-                            <placeName>Cockpit-in-Court</placeName>
+                            
                             <location>
                                 <geo>51.501029 -0.131719</geo>
                             </location>

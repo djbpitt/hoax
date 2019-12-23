@@ -32,11 +32,6 @@ section{
     background-color: #F4EFD0;
 
 }
-.textbody{
-    background-color: #E1D3B0;
-    height: auto;
-    padding: 3%;
-}
 
 h1{
     margin-left: 5%;
@@ -46,6 +41,7 @@ h1{
     color: #284042;
     font-size: 3em;
     text-align: center;
+    padding-top: 2em;
     
 }
 h2 {
@@ -53,13 +49,7 @@ h2 {
     color: #284042;
     font-size: 2em;
 }
-
-img{
-    height:40%;
-    width:40%;
-    margin: auto;
-}    
-
+  
 #nav {
     text-align: center;
     width: auto;
@@ -70,7 +60,16 @@ img{
 	}
 ul {
     list-style-type: none;
-}	
+}
+section {
+    
+    padding-bottom:2em;
+}
+section.textbody {
+    padding-left:1em;
+    padding-right:1em;
+}
+#mapid { height: 280px; }
 /*#nav li {
 	float: right; }
 #nav li a {

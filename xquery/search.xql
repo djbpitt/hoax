@@ -1,20 +1,12 @@
-(: much of what is in here was just toying around. I was never able to get this to work. Based on what I see in Punch, this may end up being its own module. I consulted w EBB in the spring and we weren't able to get past what's in here currently :)
-
 declare namespace request="http://exist-db.org/xquery/request";
 declare namespace tei="http://www.tei-c.org/ns/1.0";
-
 declare namespace ft="http://exist-db.org/xquery/lucene";
 
 import module namespace kwic="http://exist-db.org/xquery/kwic";
-
 declare namespace exist = "http://exist.sourceforge.net/NS/exist";
-
 declare option exist:serialize 'method=xhtml media-type=text/html indent=yes';
 
 let $input_search := request:get-parameter("input_search", "string")
-(: ebb: 2017-07-21 Note with Paul Hackett that in order to be able to search on 
-multiple words separated by white space, we must use "'string string"' syntax.
-We think that punctuation is stripped from the search by default. :)
 (:   :let $close := concat($input_search, "~.6") :)
 let $collection := collection('/db/apps/hoax/TEI')
 let $articles_exact := $collection//tei:body[ft:query(.,$input_search)]

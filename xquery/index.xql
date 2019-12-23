@@ -13,7 +13,7 @@ declare option output:doctype-system "about:legacy-compat";
         <link rel="stylesheet" type="text/css" href="hoax.css"/>
     </head>
     <body>
-        <h1>My awesome eXist-db app</h1>
+        <h1>My eXist-db app</h1>
         <p>Content will go here</p>
     </body>
 </html>

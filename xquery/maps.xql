@@ -5,11 +5,12 @@ declare namespace tei="http://www.tei-c.org/ns/1.0";
 
 declare variable $docs :=collection('/db/apps/hoax/TEI');
 
-<section class="container"><ol>
-{
-    let $list := hoax:titlelist($docs)
-    return $list
+<section class="container"><ol>{
+
+   let $list := hoax:maplist($docs)
+   return $list
+    
 }
-</ol></section>      
+</ol></section>    
 
 
